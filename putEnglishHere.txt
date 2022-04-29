@@ -1,0 +1,196 @@
+**Progress Tracker Update | 13 April 2022**
+<https://robertsspaceindustries.com/roadmap/progress-tracker>
+<https://shinytracker.app/>
+
+**Deliverables Added**
+:SCN1: Mantle T2 [1 Dev] :SC:
+:SCN1: microTech Lagrange Points [2 Devs] :SC:
+:SCN1: Seated Item Handling [2 Devs] :SC: :SQ:
+:SCN1: Sliding [1 Dev] :SC: :SQ:
+:SCN1: Stanton Fashion Clothing [2 Devs] :SC:
+:SCN1: Unannounced vehicle [1 Dev] :SC:
+
+**Deliverables Updated**
+:SCN4: Actor Status T2 [Start date pushed back, Work removed] :SC: :SQ:
+:SCN4: Animatable Gunner Helmet [End date pushed back, Work added] :SC: :SQ:
+:SCN4: Archon [End date pushed back, Work added] :SQ:
+:SCN4: Asset Reference Database [End date pushed back, Work added] :SC: :SQ:
+:SCN4: Atlas [End date pushed back, Work added] :SC:
+:SCN4: Audio to Animation Toolset [End date pushed back, Work added] :SC: :SQ:
+:SCN4: Banu Merchantman [Work added] :SC:
+:SCN4: Bounty Hunter V2 [Work removed] :SC:
+:SCN4: Bug Fixing & Tech Debt [Work added] :SC: :SQ:
+:SCN4: Building Interiors [Work added] :SC:
+:SCN4: Cargo System Refactor [Work added] :SC:
+:SCN4: Chapter 01 [End date pushed back, Work added] :SQ:
+:SCN4: Chapter 02 [End date pushed back, Work added] :SQ:
+:SCN4: Chapter 04 [End date pushed back, Work added] :SQ:
+:SCN4: Chapter 06 [End date pushed back, Work added] :SQ:
+:SCN4: Chapter 08 [End date pushed back, Work added] :SQ:
+:SCN4: Chapter 09 [End date pushed back, Work added] :SQ:
+:SCN4: Chapter 10 [End date pushed back, Work added] :SQ:
+:SCN4: Chapter 11 [End date pushed back, Work added] :SQ:
+:SCN4: Chapter 12 [End date pushed back, Work added] :SQ:
+:SCN4: Chapter 13 [End date pushed back, Work added] :SQ:
+:SCN4: Chapter 14 [End date pushed back, Work added] :SQ:
+:SCN4: Chapter 15 [End date pushed back, Work added] :SQ:
+:SCN4: Chapter 18 [End date pushed back, Work added] :SQ:
+:SCN4: Chapter 19 [End date pushed back, Work added] :SQ:
+:SCN4: Chapter 20 [End date pushed back, Work added] :SQ:
+:SCN4: Chapter 21 [End date pushed back, Work added] :SQ:
+:SCN4: Chapter 22 [End date pushed back, Work added] :SQ:
+:SCN4: Chapter 23 [End date pushed back, Work added] :SQ:
+:SCN4: Chapter 25 [End date pushed back, Work added] :SQ:
+:SCN4: Chapter 26 [End date pushed back, Work added] :SQ:
+:SCN4: Character Work [End date pushed back, Work added] :SQ:
+:SCN4: Chemline [End date pushed back, Work added] :SQ:
+:SCN4: Derelict Spaceships - Points of Interest [Work added] :SC:
+:SCN4: DGS Crash Recovery [End date pushed back, Work added] :SC:
+:SCN4: DGS Mesh Node [End date pushed back, Work added] :SC:
+:SCN4: Disarray Ammunition [Start date pushed back, End date pushed back, Work added] :SC:
+:SCN4: Drake Vulture [End date pushed back, Work added] :SC:
+:SCN4: ECUS Improvements [End date pushed back, Work added] :SC: :SQ:
+:SCN4: Enemy Characters [End date pushed back, Work added] :SQ:
+:SCN4: Entity Properties Plugin [End date pushed back, Work added] :SC: :SQ:
+:SCN4: EVA T2 [Work added] :SC: :SQ:
+:SCN4: Fire Extinguisher [Work removed] :SC: :SQ:
+:SCN4: Fire Hazard [End date pushed back, Work added] :SC: :SQ:
+:SCN4: Flak Ammunition [End date pushed back, Work added] :SC:
+:SCN4: FPS Devices T1 [Work added] :SC: :SQ:
+:SCN4: FPS Radar / Scanning [End date pushed back, Work added] :SC: :SQ:
+:SCN4: Frontier Clothing [End date pushed back, Work added] :SC:
+:SCN4: FS-Tech-Anim - Asset Integration [End date pushed back, Work added] :SC: :SQ:
+:SCN4: Gainey [End date pushed back, Work added] :SQ:
+:SCN4: Gen12 - Renderer T1 [End date pushed back, Work added] :SC: :SQ:
+:SCN4: Greycat Industrial Salvage Backpack [End date pushed back, Work added] :SC:
+:SCN4: Greycat Industrial Salvage Tool [End date pushed back, Work added] :SC: :SQ:
+:SCN4: Greycat Industrial Tractor Tool [End date pushed back, Work added] :SC: :SQ:
+:SCN4: Hacking T0 [Work added] :SC: :SQ:
+:SCN4: Healing T0 / Actor Status T1 [End date pushed forward, Work removed] :SC: :SQ:
+:SCN4: Hospital Surgeon [End date pushed back, Work added] :SC:
+:SCN4: Incendiary Ammunition [Start date pushed back, End date pushed back, Work added] :SC:
+:SCN4: Jump Points [End date pushed forward, Work removed] :SC: :SQ:
+:SCN4: Ladders T1 [End date pushed forward, Work removed] :SC: :SQ:
+:SCN4: Life Support T0 [Work added] :SC:
+:SCN4: Lorville Cityscape [Work added] :SC:
+:SCN4: Mag Stripping / Refill [End date pushed forward] :SC: :SQ:
+:SCN4: Maya Loadouts from P4K [End date pushed back, Work added] :SC: :SQ:
+:SCN4: Miscellaneous Support [Work added] :SC: :SQ:
+:SCN4: Name Resolving API [End date pushed back, Work added] :SC:
+:SCN4: Outpost Homestead - Independent & Outlaw [Work added] :SC:
+:SCN4: Personal Inventory [End date pushed back, Work added] :SC: :SQ:
+:SCN4: Physical Damage & Breakability [End date pushed back, Work added] :SC: :SQ:
+:SCN4: Physics - Ropes Simulation [End date pushed back, Work added] :SC: :SQ:
+:SCN4: Plasma Ammunition [Start date pushed back, End date pushed back, Work added] :SC: :SQ:
+:SCN4: Player Interaction Experience T0 - Hints & Interactions [End date pushed back, Work added] :SC: :SQ:
+:SCN4: Prone T1 [End date pushed forward, Work removed] :SC: :SQ:
+:SCN4: Proximity Mine [End date pushed back, Work added] :SC:
+:SCN4: Pyro Space Stations [Work added] :SC:
+:SCN4: Pyro System, Planet, and Mission Setup [Work added] :SC:
+:SCN4: Replication Layer Entity Authority [End date pushed back, Work added] :SC:
+:SCN4: Rescue / Transport Mission [End date pushed back, Work added] :SC:
+:SCN4: RSI Scorpius [End date pushed back, Work added] :SC:
+:SCN4: Salvage T0 [Work added] :SC: :SQ:
+:SCN4: Ship CPU [Work added] :SC: :SQ:
+:SCN4: Shops and Patrons [End date pushed back, Work added] :SC:
+:SCN4: Space Mines [Work added] :SC:
+:SCN4: StarWords Improvements [End date pushed back, Work added] :SC: :SQ:
+:SCN4: Unannounced Vehicle [Work added] :SC:
+:SCN4: Unannounced Vehicle [End date pushed back, Work added] :SC:
+:SCN4: VisArea Improvements [End date pushed back, Work added] :SC: :SQ:
+:SCN4: Weapon Misfire & Wear [Work added] :SC: :SQ:
+:SCN4: XenoThreat Armor [Work removed] :SC:
+:SCN4: Zero G Push & Pull [Work added] :SC: :SQ:
+
+**Ongoing Sprints**
+:SCN5: Animatable Gunner Helmet [1 Active Dev:increase:] :SC: :SQ:
+:SCN5: Atlas [5 Active Devs:increase:] :SC:
+:SCN5: Banu Merchantman [16 Active Devs:increase:] :SC:
+:SCN5: Bug Fixing & Tech Debt [87 Active Devs:increase:] :SC: :SQ:
+:SCN5: Building Interiors [17 Active Devs:nochange:] :SC:
+:SCN5: Cargo System Refactor [10 Active Devs:increase:] :SC:
+:SCN5: Chapter 01 [11 Active Devs:increase:] :SQ:
+:SCN5: Chapter 02 [2 Active Devs:increase:] :SQ:
+:SCN5: Chapter 06 [8 Active Devs:increase:] :SQ:
+:SCN5: Chapter 08 [5 Active Devs:nochange:] :SQ:
+:SCN5: Chapter 10 [8 Active Devs:increase:] :SQ:
+:SCN5: Chapter 11 [7 Active Devs:increase:] :SQ:
+:SCN5: Chapter 12 [18 Active Devs:increase:] :SQ:
+:SCN5: Chapter 14 [9 Active Devs:increase:] :SQ:
+:SCN5: Chapter 19 [8 Active Devs:increase:] :SQ:
+:SCN5: Chapter 20 [2 Active Devs:nochange:] :SQ:
+:SCN5: Chapter 21 [1 Active Dev:increase:] :SQ:
+:SCN5: Chapter 23 [9 Active Devs:increase:] :SQ:
+:SCN5: Chapter 25 [1 Active Dev:increase:] :SQ:
+:SCN5: Chapter 26 [9 Active Devs:increase:] :SQ:
+:SCN5: Character Work [37 Active Devs:increase:] :SQ:
+:SCN5: Chemline [6 Active Devs:increase:] :SQ:
+:SCN5: Commodity Kiosk [3 Active Devs:nochange:] :SC:
+:SCN5: Datacore Deserializer [1 Active Dev:nochange:] :SC:
+:SCN5: Derelict Spaceships - Points of Interest [14 Active Devs:increase:] :SC:
+:SCN5: DGS Crash Recovery [1 Active Dev:increase:] :SC:
+:SCN5: DGS Mesh Node [3 Active Devs:increase:] :SC:
+:SCN5: Drake Corsair [5 Active Devs:increase:] :SC:
+:SCN5: Drake Vulture [4 Active Dev:increase:] :SC:
+:SCN5: Dynamic Events [9 Active Devs:nochange:] :SC:
+:SCN5: Dynamic Mission System [1 Active Dev:nochange:] :SC:
+:SCN5: Dynamic Population [2 Active Devs:nochange:] :SC:
+:SCN5: ECUS Improvements [2 Active Devs:increase:] :SC: :SQ:
+:SCN5: Enemy Characters [4 Active Devs:increase:] :SQ:
+:SCN5: EVA T2 [5 Active Devs:increase:] :SC: :SQ:
+:SCN5: FPS Devices T1 [1 Active Dev:nochange:] :SC: :SQ:
+:SCN5: FPS Radar / Scanning [3 Active Devs:nochange:] :SC: :SQ:
+:SCN5: Frontier Clothing [12 Active Devs:increase:] :SC:
+:SCN5: FS-Tech-Anim - Asset Integration [7 Active Devs:increase:] :SC: :SQ:
+:SCN5: Gainey [4 Active Devs:increase:] :SQ:
+:SCN5: Gen12 - Renderer T1 [9 Active Devs:increase:] :SC: :SQ:
+:SCN5: Greycat Industrial Salvage Backpack [4 Active Devs:increase:] :SC:
+:SCN5: Greycat Industrial Salvage Tool [1 Active Dev:increase:] :SC: :SQ:
+:SCN5: Greycat Industrial Tractor Tool [2 Active Devs:increase:] :SC: :SQ:
+:SCN5: Hacking T0 [4 Active Devs:increase:] :SC: :SQ:
+:SCN5: HEX [5 Active Devs:nochange:] :SC:
+:SCN5: Hospital Surgeon [3 Active Devs:increase:] :SC:
+:SCN5: Jump Points [8 Active Devs:increase:] :SC: :SQ:
+:SCN5: Ladders T1 [2 Active Devs:increase:] :SC: :SQ:
+:SCN5: Lean Over Cover [1 Active Dev:increase:] :SC:
+:SCN5: Life Support T0 [1 Active Dev:decrease:] :SC:
+:SCN5: Login Flow [9 Active Devs:nochange:] :SC:
+:SCN5: Lorville Cityscape [2 Active Devs:nochange:] :SC:
+:SCN5: microTech Lagrange Points [2 Active Devs:increase:] :SC:
+:SCN5: MISC Hull C [2 Active Devs:nochange:] :SC: :SQ:
+:SCN5: MISC Hull E [1 Active Dev:increase:] :SC:
+:SCN5: MISC Odyssey [2 Active Devs:increase:] :SC:
+:SCN5: Miscellaneous Support [55 Active Devs:increase:] :SC: :SQ:
+:SCN5: Origin X1 [2 Active Devs:increase:] :SC:
+:SCN5: Outpost Homestead - Independent & Outlaw [27 Active Devs:increase:] :SC:
+:SCN5: Outpost Theme Variants [11 Active Devs:nochange:] :SC:
+:SCN5: Persistent Hangars [7 Active Devs:nochange:] :SC:
+:SCN5: Persistent Streaming and Server Meshing [26 Active Devs:decrease:] :SC:
+:SCN5: Personal Inventory [1 Active Dev:decrease:] :SC: :SQ:
+:SCN5: Physical Damage & Breakability [3 Active Devs:increase:] :SC: :SQ:
+:SCN5: Physics - Ropes Simulation [1 Active Dev:increase:] :SC: :SQ:
+:SCN5: Player Interaction Experience T1 - Lockers & Inventory [2 Active Devs:increase:] :SC: :SQ:
+:SCN5: Player Interaction Experience T2 - Visor HUD & Helmet [1 Active Dev:decrease:] :SC: :SQ:
+:SCN5: Player Reflection [1 Active Dev:increase:] :SC:
+:SCN5: Probability Volume Encounter Density Refactor [1 Active Dev:nochange:] :SC:
+:SCN5: Pyro Space Stations [15 Active Devs:nochange:] :SC:
+:SCN5: Pyro System, Planet, and Mission Setup [4 Active Devs:increase:] :SC:
+:SCN5: Quantum Simulation [5 Active Devs:nochange:] :SC:
+:SCN5: Replication Layer Entity Authority [6 Active Devs:increase:] :SC:
+:SCN5: Rescue / Transport Mission [3 Active Devs:nochange:] :SC:
+:SCN5: Resource Management [2 Active Devs:decrease:] :SC:
+:SCN5: Reststop Hangar Replacements [1 Active Dev:nochange:] :SC:
+:SCN5: RSI Scorpius [5 Active Devs:decrease:] :SC:
+:SCN5: Salvage T0 [12 Active Devs:increase:] :SC: :SQ:
+:SCN5: Shops and Patrons [4 Active Devs:increase:] :SC:
+:SCN5: Space Mines [1 Active Dev:increase:] :SC:
+:SCN5: Stanton Fashion Clothing [2 Active Devs:increase:] :SC:
+:SCN5: Theaters of War - Miscellaneous Support [10 Active Devs:nochange:] :SC:
+:SCN5: Unannounced vehicle [1 Active Dev:increase:] :SC:
+:SCN5: Unannounced vehicle [11 Active Devs:increase:] :SC:
+:SCN5: Unannounced vehicle [3 Active Devs:nochange:] :SC:
+:SCN5: Unannounced vehicle [2 Active Devs:nochange:] :SC:
+:SCN5: Unannounced vehicle [1 Active Dev:increase:] :SC:
+:SCN5: Underground Facilities [4 Active Devs:decrease:] :SC:
+:SCN5: VisArea Improvements [1 Active Dev:increase:] :SC: :SQ:
+:SCN5: Zero G Push & Pull [5 Active Devs:increase:] :SC: :SQ:

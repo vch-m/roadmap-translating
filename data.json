@@ -1,0 +1,2602 @@
+[
+    [
+        "**Progress Tracker Update | 13 April 2022**",
+        "**Обновление трекера прогресса | 13 апреля 2022**"
+    ],
+    [
+        "<https://robertsspaceindustries.com/roadmap/progress-tracker>",
+        "<https://robertsspaceindustries.com/roadmap/progress-tracker>"
+    ],
+    [
+        "<https://shinytracker.app/>",
+        "<https://shinytracker.app/>"
+    ],
+    [
+        "",
+        ""
+    ],
+    [
+        "**Deliverables Added**",
+        "**Добавленные задачи**"
+    ],
+    [
+        "Mantle T2",
+        "Карабкание (Mantle) T2"
+    ],
+    [
+        "microTech Lagrange Points",
+        "Точки Лагранжа у microTech"
+    ],
+    [
+        "Seated Item Handling",
+        "Использование предметов сидя"
+    ],
+    [
+        "Sliding",
+        "Скольжение"
+    ],
+    [
+        "Stanton Fashion Clothing",
+        "Одежда моды Стэнтона"
+    ],
+    [
+        "Unannounced vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "",
+        ""
+    ],
+    [
+        "**Deliverables Updated**",
+        "**Обновленные задачи**"
+    ],
+    [
+        "Actor Status T2",
+        "Статус персонажа T2"
+    ],
+    [
+        "Animatable Gunner Helmet",
+        "Анимированный шлем пулеметчика"
+    ],
+    [
+        "Archon",
+        "Archon"
+    ],
+    [
+        "Asset Reference Database",
+        "База данных ссылок на ассеты"
+    ],
+    [
+        "Atlas",
+        "Atlas"
+    ],
+    [
+        "Audio to Animation Toolset",
+        "Инструменты для переноса звука в анимацию"
+    ],
+    [
+        "Banu Merchantman",
+        "Banu Merchantman"
+    ],
+    [
+        "Bounty Hunter V2",
+        "Охотник за головами V2"
+    ],
+    [
+        "Bug Fixing & Tech Debt",
+        "Устранение багов и технического долга"
+    ],
+    [
+        "Building Interiors",
+        "Интерьеры зданий"
+    ],
+    [
+        "Cargo System Refactor",
+        "Рефакторинг грузовой системы"
+    ],
+    [
+        "Chapter 01",
+        "Часть 01"
+    ],
+    [
+        "Chapter 02",
+        "Часть 02"
+    ],
+    [
+        "Chapter 04",
+        "Часть 04"
+    ],
+    [
+        "Chapter 06",
+        "Часть 06"
+    ],
+    [
+        "Chapter 08",
+        "Часть 08"
+    ],
+    [
+        "Chapter 09",
+        "Часть 09"
+    ],
+    [
+        "Chapter 10",
+        "Часть 10"
+    ],
+    [
+        "Chapter 11",
+        "Часть 11"
+    ],
+    [
+        "Chapter 12",
+        "Часть 12"
+    ],
+    [
+        "Chapter 13",
+        "Часть 13"
+    ],
+    [
+        "Chapter 14",
+        "Часть 14"
+    ],
+    [
+        "Chapter 15",
+        "Часть 15"
+    ],
+    [
+        "Chapter 18",
+        "Часть 18"
+    ],
+    [
+        "Chapter 19",
+        "Часть 19"
+    ],
+    [
+        "Chapter 20",
+        "Часть 20"
+    ],
+    [
+        "Chapter 21",
+        "Часть 21"
+    ],
+    [
+        "Chapter 22",
+        "Часть 22"
+    ],
+    [
+        "Chapter 23",
+        "Часть 23"
+    ],
+    [
+        "Chapter 25",
+        "Часть 25"
+    ],
+    [
+        "Chapter 26",
+        "Часть 26"
+    ],
+    [
+        "Character Work",
+        "Работа над персонажами"
+    ],
+    [
+        "Chemline",
+        "Chemline"
+    ],
+    [
+        "Derelict Spaceships - Points of Interest",
+        " Заброшенные корабли - точки интереса"
+    ],
+    [
+        "DGS Crash Recovery",
+        "Восстановление DGS после краша"
+    ],
+    [
+        "DGS Mesh Node",
+        "DGS Mesh Node"
+    ],
+    [
+        "Disarray Ammunition",
+        "Электромагнитные боеприпасы"
+    ],
+    [
+        "Drake Vulture",
+        "Drake Vulture"
+    ],
+    [
+        "ECUS Improvements",
+        "Улучшения в ECUS"
+    ],
+    [
+        "Enemy Characters",
+        "Вражеские персонажи"
+    ],
+    [
+        "Entity Properties Plugin",
+        "Плагин свойств сущностей"
+    ],
+    [
+        "EVA T2",
+        "Выход в открытый космос T2"
+    ],
+    [
+        "Fire Extinguisher",
+        "Огнетушитель "
+    ],
+    [
+        "Fire Hazard",
+        "Пожарная опасность"
+    ],
+    [
+        "Flak Ammunition",
+        "Зенитные боеприпасы"
+    ],
+    [
+        "FPS Devices T1",
+        "Устройства для FPS T1 "
+    ],
+    [
+        "FPS Radar / Scanning",
+        "Радар / сканирование для FPS"
+    ],
+    [
+        "Frontier Clothing",
+        "Одежда в стиле фронтира"
+    ],
+    [
+        "FS-Tech-Anim - Asset Integration",
+        "FS-Tech-Anim - Интеграция ассетов"
+    ],
+    [
+        "Gainey",
+        "Гейни"
+    ],
+    [
+        "Gen12 - Renderer T1",
+        "Gen12 - Renderer T1"
+    ],
+    [
+        "Greycat Industrial Salvage Backpack",
+        "Рюкзак для сальважа от Greycat Industrial"
+    ],
+    [
+        "Greycat Industrial Salvage Tool",
+        "Сальважный инструмент Greycat Industrial"
+    ],
+    [
+        "Greycat Industrial Tractor Tool",
+        "Тяговое устройство Greycat Industrial"
+    ],
+    [
+        "Hacking T0",
+        "Хакинг T0"
+    ],
+    [
+        "Healing T0 / Actor Status T1",
+        "Исцеление T0 / Статус персонажа T1"
+    ],
+    [
+        "Hospital Surgeon",
+        "Больничный хирург"
+    ],
+    [
+        "Incendiary Ammunition",
+        "Зажигательные боеприпасы"
+    ],
+    [
+        "Jump Points",
+        "Прыжковые точки"
+    ],
+    [
+        "Ladders T1",
+        "Лестниці T1"
+    ],
+    [
+        "Life Support T0",
+        "Жизнеобеспечение T0"
+    ],
+    [
+        "Lorville Cityscape",
+        "Городской пейзаж Лорвилля"
+    ],
+    [
+        "Mag Stripping / Refill",
+        "Вытаскивание / перезарядка патронов "
+    ],
+    [
+        "Maya Loadouts from P4K",
+        "Загрузка Maya из P4K"
+    ],
+    [
+        "Miscellaneous Support",
+        "Разная поддержка"
+    ],
+    [
+        "Name Resolving API",
+        "API разрешения имён"
+    ],
+    [
+        "Outpost Homestead - Independent & Outlaw",
+        "Outpost Homestead - Независимый и вне закона"
+    ],
+    [
+        "Personal Inventory",
+        "Личный инвентарь"
+    ],
+    [
+        "Physical Damage & Breakability",
+        "Физические повреждения и разрушаемость"
+    ],
+    [
+        "Physics - Ropes Simulation",
+        "Физика - симуляция канатов"
+    ],
+    [
+        "Plasma Ammunition",
+        "Плазменные боеприпасы"
+    ],
+    [
+        "Player Interaction Experience T0 - Hints & Interactions",
+        "Опыт взаимодействия с игроком T0 - подсказки и взаимодействия - Hints & Interactions"
+    ],
+    [
+        "Prone T1",
+        "Передвижение лежа Т1"
+    ],
+    [
+        "Proximity Mine",
+        "Бесконтактные мины"
+    ],
+    [
+        "Pyro Space Stations",
+        "Космические станции Pyro"
+    ],
+    [
+        "Pyro System, Planet, and Mission Setup",
+        "Система Pyro, планеты и настройка миссий"
+    ],
+    [
+        "Replication Layer Entity Authority",
+        "Управление сущностями уровня репликации"
+    ],
+    [
+        "Rescue / Transport Mission",
+        "Спасательная / транспортная миссия"
+    ],
+    [
+        "RSI Scorpius",
+        "RSI Scorpius"
+    ],
+    [
+        "Salvage T0",
+        "Сальваж T0"
+    ],
+    [
+        "Ship CPU",
+        "Корабельный процессор"
+    ],
+    [
+        "Shops and Patrons",
+        "Магазины и посетители"
+    ],
+    [
+        "Space Mines",
+        "Космические мины"
+    ],
+    [
+        "StarWords Improvements",
+        "Улучшения StarWords"
+    ],
+    [
+        "Unannounced Vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Unannounced Vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "VisArea Improvements",
+        "Улучшение области видимости"
+    ],
+    [
+        "Weapon Misfire & Wear",
+        "Осечки и износ оружия"
+    ],
+    [
+        "XenoThreat Armor",
+        "Броня XenoThreat"
+    ],
+    [
+        "Zero G Push & Pull",
+        "Тяни-толкай в невесомости"
+    ],
+    [
+        "",
+        ""
+    ],
+    [
+        "**Ongoing Sprints**",
+        "**Активные задачи**"
+    ],
+    [
+        "Animatable Gunner Helmet",
+        "Анимированный шлем пулеметчика"
+    ],
+    [
+        "Atlas",
+        "Atlas"
+    ],
+    [
+        "Banu Merchantman",
+        "Banu Merchantman"
+    ],
+    [
+        "Bug Fixing & Tech Debt",
+        "Устранение багов и технического долга"
+    ],
+    [
+        "Building Interiors",
+        "Интерьеры зданий"
+    ],
+    [
+        "Cargo System Refactor",
+        "Рефакторинг грузовой системы"
+    ],
+    [
+        "Chapter 01",
+        "Часть 01"
+    ],
+    [
+        "Chapter 02",
+        "Часть 02"
+    ],
+    [
+        "Chapter 06",
+        "Часть 06"
+    ],
+    [
+        "Chapter 08",
+        "Часть 08"
+    ],
+    [
+        "Chapter 10",
+        "Часть 10"
+    ],
+    [
+        "Chapter 11",
+        "Часть 11"
+    ],
+    [
+        "Chapter 12",
+        "Часть 12"
+    ],
+    [
+        "Chapter 14",
+        "Часть 14"
+    ],
+    [
+        "Chapter 19",
+        "Часть 19"
+    ],
+    [
+        "Chapter 20",
+        "Часть 20"
+    ],
+    [
+        "Chapter 21",
+        "Часть 21"
+    ],
+    [
+        "Chapter 23",
+        "Часть 23"
+    ],
+    [
+        "Chapter 25",
+        "Часть 25"
+    ],
+    [
+        "Chapter 26",
+        "Часть 26"
+    ],
+    [
+        "Character Work",
+        "Работа над персонажами"
+    ],
+    [
+        "Chemline",
+        "Chemline"
+    ],
+    [
+        "Commodity Kiosk",
+        "Товарный киоск"
+    ],
+    [
+        "Datacore Deserializer",
+        "Datacore Deserializer"
+    ],
+    [
+        "Derelict Spaceships - Points of Interest",
+        "Заброшенные космические корабли - точки интереса"
+    ],
+    [
+        "DGS Crash Recovery",
+        "Восстановление DGS после краша"
+    ],
+    [
+        "DGS Mesh Node",
+        "DGS Mesh Node"
+    ],
+    [
+        "Drake Corsair",
+        "Drake Corsair"
+    ],
+    [
+        "Drake Vulture",
+        "Drake Vulture"
+    ],
+    [
+        "Dynamic Events",
+        "Динамические события"
+    ],
+    [
+        "Dynamic Mission System",
+        "Динамическая система миссий"
+    ],
+    [
+        "Dynamic Population",
+        "Динамическое население"
+    ],
+    [
+        "ECUS Improvements",
+        "Исправления в ECUS"
+    ],
+    [
+        "Enemy Characters",
+        "Вражеские персонажи"
+    ],
+    [
+        "EVA T2",
+        "Выход в открытый космос T2"
+    ],
+    [
+        "FPS Devices T1",
+        "Устройства для FPS T1"
+    ],
+    [
+        "FPS Radar / Scanning",
+        "Радар / сканирование для FPS"
+    ],
+    [
+        "Frontier Clothing",
+        "Одежда в стиле фронтира"
+    ],
+    [
+        "FS-Tech-Anim - Asset Integration",
+        "FS-Tech-Anim - Интеграция ассетов"
+    ],
+    [
+        "Gainey",
+        "Гейни"
+    ],
+    [
+        "Gen12 - Renderer T1",
+        "Gen12 - Renderer T1"
+    ],
+    [
+        "Greycat Industrial Salvage Backpack",
+        "Рюкзак для сальважа от Greycat Industrial"
+    ],
+    [
+        "Greycat Industrial Salvage Tool",
+        "Сальважный инструмент Greycat Industrial"
+    ],
+    [
+        "Greycat Industrial Tractor Tool",
+        "Тяговое устройство Greycat Industrial"
+    ],
+    [
+        "Hacking T0",
+        "Хакинг T0"
+    ],
+    [
+        "HEX",
+        "HEX"
+    ],
+    [
+        "Hospital Surgeon",
+        "Больничный хирург"
+    ],
+    [
+        "Jump Points",
+        "Прыжковые точки"
+    ],
+    [
+        "Ladders T1",
+        "Лестницы T1"
+    ],
+    [
+        "Lean Over Cover",
+        "Наклониться над укрытием"
+    ],
+    [
+        "Life Support T0",
+        "Жизнеобеспечение T0"
+    ],
+    [
+        "Login Flow",
+        "Потоковый вход *в игру*"
+    ],
+    [
+        "Lorville Cityscape",
+        "Городской пейзаж Лорвилля"
+    ],
+    [
+        "microTech Lagrange Points",
+        "Точки Лагранжа у microTech"
+    ],
+    [
+        "MISC Hull C",
+        "MISC Hull C"
+    ],
+    [
+        "MISC Hull E",
+        "MISC Hull E"
+    ],
+    [
+        "MISC Odyssey",
+        "MISC Odyssey"
+    ],
+    [
+        "Miscellaneous Support",
+        "Разная поддержка"
+    ],
+    [
+        "Origin X1",
+        "Origin X1"
+    ],
+    [
+        "Outpost Homestead - Independent & Outlaw",
+        "Outpost Homestead - Независимый и вне закона"
+    ],
+    [
+        "Outpost Theme Variants",
+        "Варианты тем аутпостов"
+    ],
+    [
+        "Persistent Hangars",
+        "Постоянные ангары"
+    ],
+    [
+        "Persistent Streaming and Server Meshing",
+        "Persistent Streaming и Server Meshing"
+    ],
+    [
+        "Personal Inventory",
+        "Личный инвентарь"
+    ],
+    [
+        "Physical Damage & Breakability",
+        "Физические повреждения и разрушаемость"
+    ],
+    [
+        "Physics - Ropes Simulation",
+        "Физика - симуляция канатов"
+    ],
+    [
+        "Player Interaction Experience T1 - Lockers & Inventory",
+        "Опыт взаимодействия T1 - шкафчики и инвентарь"
+    ],
+    [
+        "Player Interaction Experience T2 - Visor HUD & Helmet",
+        "Опыт взаимодействия T2 - HUD визора и шлема"
+    ],
+    [
+        "Player Reflection",
+        "Отражения игрока"
+    ],
+    [
+        "Probability Volume Encounter Density Refactor",
+        "Probability Volume Encounter Density Refactor"
+    ],
+    [
+        "Pyro Space Stations",
+        "Космические станции Pyro"
+    ],
+    [
+        "Pyro System, Planet, and Mission Setup",
+        "Система Pyro, планеты и настройка миссий"
+    ],
+    [
+        "Quantum Simulation",
+        "Квантовая симуляция"
+    ],
+    [
+        "Replication Layer Entity Authority",
+        "Управление сущностями уровня репликации"
+    ],
+    [
+        "Rescue / Transport Mission",
+        "Спасательная / транспортная миссия"
+    ],
+    [
+        "Resource Management",
+        "Управление ресурсами"
+    ],
+    [
+        "Reststop Hangar Replacements",
+        "Замена ангаров на станциях Reststop"
+    ],
+    [
+        "RSI Scorpius",
+        "RSI Scorpius"
+    ],
+    [
+        "Salvage T0",
+        "Сальваж T0"
+    ],
+    [
+        "Shops and Patrons",
+        "Малагины и посетители"
+    ],
+    [
+        "Space Mines",
+        "Космические мины"
+    ],
+    [
+        "Stanton Fashion Clothing",
+        "Одежда моды Стэнтона"
+    ],
+    [
+        "Theaters of War - Miscellaneous Support",
+        "Театры войны - разная поддержка"
+    ],
+    [
+        "Unannounced vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Unannounced vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Unannounced vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Unannounced vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Unannounced vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Underground Facilities",
+        "Подземные сооружения"
+    ],
+    [
+        "VisArea Improvements",
+        "Улучшение области видимости"
+    ],
+    [
+        "Zero G Push & Pull",
+        "Тяни-толкай в невесомости"
+    ],
+    [
+        "**Progress Tracker Update | Q1 2022 | Week 6 & 7**",
+        "**Обновление трекера прогресса | Q1 2022 | Неделя 6 и 7**"
+    ],
+    [
+        "https://robertsspaceindustries.com/roadmap/progress-tracker",
+        "https://robertsspaceindustries.com/roadmap/progress-tracker"
+    ],
+    [
+        "",
+        ""
+    ],
+    [
+        "**Sprints Started**",
+        "**Начатые спринты**"
+    ],
+    [
+        "AI - Arcade Machine",
+        "ИИ - Аркадный автомат"
+    ],
+    [
+        "Look IK Architecture Refactor",
+        "Переработка архитектуры IK"
+    ],
+    [
+        "MISC Hull D",
+        "MISC Hull D"
+    ],
+    [
+        "Name Resolving API",
+        "API разрешения имен"
+    ],
+    [
+        "Origin X1",
+        "Origin X1"
+    ],
+    [
+        "Unannounced Vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "",
+        ""
+    ],
+    [
+        "**Sprints Concluded**",
+        "**Завершенные спринты**"
+    ],
+    [
+        "Aciedo Station",
+        "Станция Aciedo"
+    ],
+    [
+        "Chapter 02",
+        "Глава 02"
+    ],
+    [
+        "Chapter 17",
+        "Глава 17"
+    ],
+    [
+        "FS-Tech-Anim - Asset Integration",
+        "FS-Tech-Anim - Интеграция ассетов"
+    ],
+    [
+        "Map and Radar System Rework",
+        "Переработка карты и радарной системы"
+    ],
+    [
+        "Maya Loadouts from P4K",
+        "Загрузка Maya из P4K"
+    ],
+    [
+        "Military Multi-Tool",
+        "Военный мультитул"
+    ],
+    [
+        "Outlaw Medical Outfits",
+        "Медицинское внезаконное снаряжение"
+    ],
+    [
+        "Pyro Spacescaping",
+        "Космические виды Пайро"
+    ],
+    [
+        "Rivers and Basins",
+        "Реки и бассейны"
+    ],
+    [
+        "Security Behaviour",
+        "Поведение охраны"
+    ],
+    [
+        "Selling",
+        "Продажа"
+    ],
+    [
+        "Unannounced Tech",
+        "Неанонсированная технология"
+    ],
+    [
+        "Unannounced Vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Zone Handling",
+        "Обработка зон"
+    ],
+    [
+        "",
+        ""
+    ],
+    [
+        "**Ongoing Sprints**",
+        "**Текущие спринты**"
+    ],
+    [
+        ":SC: **Star Citizen**",
+        ":SC: **Star Citizen**"
+    ],
+    [
+        "AI - Landing Improvements",
+        "ИИ - Улучшения приземления"
+    ],
+    [
+        "AI - Usable System V2",
+        "ИИ - Используемая система V2"
+    ],
+    [
+        "ATC System Rewrite",
+        "Переписывание системы воздушного трафика"
+    ],
+    [
+        "Atlas",
+        "Атлас"
+    ],
+    [
+        "Atmospheric Pressure Damage",
+        "Повреждения от атмосферного давления"
+    ],
+    [
+        "Banu Merchantman",
+        "Banu Merchantman"
+    ],
+    [
+        "Bombs",
+        "Бомбы"
+    ],
+    [
+        "Bounty Hunter V2",
+        "Охотник за головами V2"
+    ],
+    [
+        "Building Interiors",
+        "Интерьеры зданий"
+    ],
+    [
+        "Cargo System Refactor",
+        "Рефакторинг грузовой системы"
+    ],
+    [
+        "Cave Archetypes",
+        "Архетипы пещер"
+    ],
+    [
+        "Civilian NPC Movement Improvements",
+        "Улучшения передвижения гражданских NPC"
+    ],
+    [
+        "Commodity Kiosk",
+        "Товарный киоск"
+    ],
+    [
+        "Consolidated Outland HoverQuad",
+        "Consolidated Outland HoverQuad"
+    ],
+    [
+        "Derelict Spaceships - Points of Interest",
+        "Заброшенные космолёты - точки интереса"
+    ],
+    [
+        "DGS Mesh Node",
+        "DGS Mesh Node"
+    ],
+    [
+        "Drake Corsair",
+        "Drake Corsair"
+    ],
+    [
+        "Drake Vulture",
+        "Drake Vulture"
+    ],
+    [
+        "Dynamic Events",
+        "Динамические события"
+    ],
+    [
+        "Dynamic Population",
+        "Динамическое население"
+    ],
+    [
+        "Entity Stow / Destroy",
+        "Складирование / уничтожение объектов"
+    ],
+    [
+        "Error Reporting & Crash Handling",
+        "Отчеты об ошибках и обработка крашей"
+    ],
+    [
+        "Frontier Clothing",
+        "Одежда в стиле фронтира"
+    ],
+    [
+        "Greycat Industrial Salvage Backpack",
+        "Рюкзак для сальважа от Greycat Industrial"
+    ],
+    [
+        "Greycat PTV Gold Standard",
+        "Золотой стандарт Greycat PTV"
+    ],
+    [
+        "HEX",
+        "HEX"
+    ],
+    [
+        "Hospital Surgeon",
+        "Больничный хирург"
+    ],
+    [
+        "Hybrid Service",
+        "Гибридный сервис"
+    ],
+    [
+        "Jump Point Spacescaping",
+        "Космические виды вокруг прыжковой точки"
+    ],
+    [
+        "Levski - Hospital Interior Location",
+        "Левски - Интерьер больницы"
+    ],
+    [
+        "Life Support T0",
+        "Жизнеобеспечение T0"
+    ],
+    [
+        "Lockable Containers",
+        "Запираемые контейнеры"
+    ],
+    [
+        "Login Flow",
+        "Потоковый вход *в игру*"
+    ],
+    [
+        "Lorville - Hospital Interior Location",
+        "Лорвилль - Интерьер больницы"
+    ],
+    [
+        "Lorville Cityscape",
+        "Городской пейзаж Лорвилля"
+    ],
+    [
+        "MISC Hull A",
+        "MISC Hull A"
+    ],
+    [
+        "MISC Odyssey",
+        "MISC Odyssey"
+    ],
+    [
+        "NPC Scheduler Service",
+        "Служба планировщика NPC"
+    ],
+    [
+        "NPC Tracker Service",
+        "Служба отслеживания NPC"
+    ],
+    [
+        "Origin 600i Gold Standard",
+        "Золотой стандарт Origin 600i"
+    ],
+    [
+        "Outpost Homestead - Independent & Outlaw",
+        "Outpost Homestead - Независимый и вне закона"
+    ],
+    [
+        "Outpost Theme Variants",
+        "Варианты темы форпоста"
+    ],
+    [
+        "Persistent Hangars",
+        "Постоянные ангары"
+    ],
+    [
+        "Persistent Streaming and Server Meshing",
+        "Persistent Streaming и Server Meshing"
+    ],
+    [
+        "Player Item Shard Transition",
+        "Передача предметов игрока по шардам"
+    ],
+    [
+        "Probability Volume Encounter Density Refactor",
+        "Probability Volume Encounter Density Refactor"
+    ],
+    [
+        "Pyro Space Stations",
+        "Космические станции Pyro"
+    ],
+    [
+        "Pyro System, Planet, and Mission Setup",
+        "Система Pyro, планеты и настройка миссий"
+    ],
+    [
+        "Quantum Simulation",
+        "Квантовая симуляция"
+    ],
+    [
+        "Quantum Travel Experience",
+        "Опыт квантовых путешествий"
+    ],
+    [
+        "RaStar",
+        "RaStar"
+    ],
+    [
+        "Replication Layer Entity Authority",
+        "Управление сущностями уровня репликации"
+    ],
+    [
+        "Resource Management",
+        "Управление ресурсами"
+    ],
+    [
+        "Roads",
+        "Дороги"
+    ],
+    [
+        "RSI Scorpius",
+        "RSI Scorpius"
+    ],
+    [
+        "Server Streaming",
+        "Server Streaming"
+    ],
+    [
+        "Services Distributed Load Testing System",
+        "Система распр. нагрузочного тестирования сервисов"
+    ],
+    [
+        "Ship to Ship Refuelling",
+        "Заправка с корабля на корабль"
+    ],
+    [
+        "Shops and Patrons",
+        "Магазины и посетители"
+    ],
+    [
+        "Theaters of War - Miscellaneous Support",
+        "Театры войны - разная поддержка"
+    ],
+    [
+        "Unannounced Vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Unannounced Vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Unannounced Vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Underground Facilities",
+        "Подземные сооружения"
+    ],
+    [
+        "Virtual AI Service",
+        "Виртуальная служба ИИ"
+    ],
+    [
+        "XenoThreat Armour",
+        "Броня XenoThreat"
+    ],
+    [
+        "",
+        ""
+    ],
+    [
+        ":SC: **Star Citizen & Squadron 42**",
+        ":SC: **Star Citizen & Squadron 42**"
+    ],
+    [
+        "AI - Navigation Links - Ladders / Ledge Grab",
+        "ИИ - Навигационные связи - Лестницы / Ухват за лестницу"
+    ],
+    [
+        "AI - Untrained Combat",
+        "ИИ - Необученный бой"
+    ],
+    [
+        "Animatable Gunner Helmet",
+        "Анимированный шлем пулеметчика"
+    ],
+    [
+        "Asset Reference Database",
+        "База данных ссылок на ассеты"
+    ],
+    [
+        "Charge / Drain T0",
+        "Зарядка / Разрядка T0"
+    ],
+    [
+        "DNA Head Texture Update",
+        "Обновление ДНК текстур головы"
+    ],
+    [
+        "ECUS Improvements",
+        "Улучшения планировщика обновления компонентов сущности (ECUS )[2 чел."
+    ],
+    [
+        "Entity Properties Plugin",
+        "Плагин свойств сущностей"
+    ],
+    [
+        "EVA T2",
+        "Выход в открытый космос T2"
+    ],
+    [
+        "Fire Extinguisher",
+        "Огнетушитель"
+    ],
+    [
+        "Fire Hazard",
+        "Пожарная опасность"
+    ],
+    [
+        "FPS Radar / Scanning",
+        "FPS радар / сканирование"
+    ],
+    [
+        "Gen12 - Renderer T1",
+        "Gen12 - Renderer T1"
+    ],
+    [
+        "Greycat Industrial Salvage Tool",
+        "Сальважный инструмент Greycat Industrial"
+    ],
+    [
+        "Greycat Industrial Tractor Tool",
+        "Тяговое устройство Greycat Industrial"
+    ],
+    [
+        "Hacking T0",
+        "Хакинг T0"
+    ],
+    [
+        "Healing T0 / Actor Status T1",
+        "Исцеление T0 / Статус персонажа T1"
+    ],
+    [
+        "Improved OC Workflow",
+        "Улучшенный процесс работы Контейнеров Объектов"
+    ],
+    [
+        "Jump Points",
+        "Прыжковые точки"
+    ],
+    [
+        "Mag Stripping / Refill",
+        "Вытаскивание / перезарядка патронов"
+    ],
+    [
+        "MFD Rework",
+        "Переработка многофункциональных дисплеев корабля"
+    ],
+    [
+        "MISC Hull C",
+        "MISC Hull C"
+    ],
+    [
+        "Modular Shaders",
+        "Модульные шейдеры"
+    ],
+    [
+        "Move Planet to Compute",
+        "Move Planet to Compute"
+    ],
+    [
+        "Personal Inventory",
+        "Личный инвентарь"
+    ],
+    [
+        "Player Interaction Experience T0 - Hints & Interactions",
+        "Опыт взаимодействия с игроком T0 - подсказки и взаимодействия"
+    ],
+    [
+        "Player Interaction Experience T1 - Lockers & Inventory",
+        "Опыт взаимодействия с игроком T1 - шкафчики и инвентарь"
+    ],
+    [
+        "Reputation V2",
+        "Репутация V2"
+    ],
+    [
+        "Salvage T0",
+        "Сальваж T0"
+    ],
+    [
+        "Shield Emitters",
+        "Излучатели щита"
+    ],
+    [
+        "StarWords Improvements",
+        "Улучшения StarWords"
+    ],
+    [
+        "Subsumption Editor Integration",
+        "Интеграция редактора Subsumption"
+    ],
+    [
+        "Vending Machine Utilization T0",
+        "Использование торговых автоматов T0"
+    ],
+    [
+        "VisArea Improvements",
+        "Улучшение области видимости"
+    ],
+    [
+        "Weapon Misfire & Wear",
+        "Осечки и износ оружия"
+    ],
+    [
+        "Weapon Handling T2",
+        "Обращение с оружием T2"
+    ],
+    [
+        "Zero G Push & Pull",
+        "Тяни-толкай в невесомости"
+    ],
+    [
+        "",
+        ""
+    ],
+    [
+        ":SQ: **Squadron 42**",
+        ":SQ: **Squadron 42**"
+    ],
+    [
+        "Archon",
+        "Archon"
+    ],
+    [
+        "Breakers Yard",
+        "Breakers Yard"
+    ],
+    [
+        "Chapter 01",
+        "Глава 01"
+    ],
+    [
+        "Chapter 03",
+        "Глава 03"
+    ],
+    [
+        "Chapter 04",
+        "Глава 04"
+    ],
+    [
+        "Chapter 05",
+        "Глава 05"
+    ],
+    [
+        "Chapter 06",
+        "Глава 06"
+    ],
+    [
+        "Chapter 07",
+        "Глава 07"
+    ],
+    [
+        "Chapter 08",
+        "Глава 08"
+    ],
+    [
+        "Chapter 09",
+        "Глава 09"
+    ],
+    [
+        "Chapter 10",
+        "Глава 10"
+    ],
+    [
+        "Chapter 11",
+        "Глава 11"
+    ],
+    [
+        "Chapter 12",
+        "Глава 12"
+    ],
+    [
+        "Chapter 13",
+        "Глава 13"
+    ],
+    [
+        "Chapter 14",
+        "Глава 14"
+    ],
+    [
+        "Chapter 15",
+        "Глава 15"
+    ],
+    [
+        "Chapter 18",
+        "Глава 18"
+    ],
+    [
+        "Chapter 19",
+        "Глава 19"
+    ],
+    [
+        "Chapter 20",
+        "Глава 20"
+    ],
+    [
+        "Chapter 21",
+        "Глава 21"
+    ],
+    [
+        "Chapter 22",
+        "Глава 22"
+    ],
+    [
+        "Chapter 23",
+        "Глава 23"
+    ],
+    [
+        "Chapter 26",
+        "Глава 26"
+    ],
+    [
+        "Character Work",
+        "Работа над персонажами"
+    ],
+    [
+        "Chemline",
+        "Chemline"
+    ],
+    [
+        "Enemy Characters",
+        "Вражеские персонажи"
+    ],
+    [
+        "Enemy Ships",
+        "Вражеские корабли"
+    ],
+    [
+        "Female Player Head",
+        "Женская голова игрока"
+    ],
+    [
+        "Greycat Industrial Cydnus Mining Droid",
+        "Майнинговый дроид Greycat Industrial Cydnus"
+    ],
+    [
+        "Spacescaping",
+        "Космические виды"
+    ],
+    [
+        "SQ42 - Vehicle Support",
+        "SQ42 - поддержка транспорта"
+    ],
+    [
+        "**Progress Tracker Update | 16 March 2022**",
+        "**Обновление трекера прогресса | 16 марта 2022 года**"
+    ],
+    [
+        "https://robertsspaceindustries.com/roadmap/progress-tracker",
+        "https://robertsspaceindustries.com/roadmap/progress-tracker"
+    ],
+    [
+        "",
+        ""
+    ],
+    [
+        "**Deliverables Added**",
+        "**Добавленные задачи**"
+    ],
+    [
+        "Crusader Genesis Starliner",
+        "Crusader Genesis Starliner"
+    ],
+    [
+        "Foliage Shader",
+        "Шейдер листвы"
+    ],
+    [
+        "MISC Hull B",
+        "MISC Hull B"
+    ],
+    [
+        "Ocean Shader Improvements",
+        "Улучшения шейдера океана"
+    ],
+    [
+        "Unannounced Vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "",
+        ""
+    ],
+    [
+        "**Deliverables Removed**",
+        "**Удаленные задачи**"
+    ],
+    [
+        "Destructible Environments",
+        "Разрушаемое окружение"
+    ],
+    [
+        "Terrain Snow Displacement",
+        "Terrain Snow Displacement (*Следы на снегу*)"
+    ],
+    [
+        "Unified Login Queue",
+        "Единая очередь авторизации"
+    ],
+    [
+        "",
+        ""
+    ],
+    [
+        "**Deliverables Updated**",
+        "**Обновленные задачи**"
+    ],
+    [
+        "Bug Fixing & Tech Debt",
+        "Исправление ошибок и технический долг"
+    ],
+    [
+        "Cargo System Refactor",
+        "Рефакторинг грузовой системы"
+    ],
+    [
+        "Cave Archetypes",
+        "Архетипы пещер"
+    ],
+    [
+        "Commodity Kiosk",
+        "Товарный киоск"
+    ],
+    [
+        "Drake Corsair",
+        "Drake Corsair"
+    ],
+    [
+        "Ecosystem Enhancements",
+        "Улучшение экосистемы"
+    ],
+    [
+        "Lava Tech",
+        "Технология лавы"
+    ],
+    [
+        "Lorville Cityscape",
+        "Городской пейзаж Лорвилля"
+    ],
+    [
+        "Miscellaneous Support",
+        "Различная поддержка"
+    ],
+    [
+        "Move Planet to Compute",
+        "Move Planet to Compute"
+    ],
+    [
+        "NPC Scheduler Service",
+        "Служба планировщика NPC"
+    ],
+    [
+        "Origin X1",
+        "Origin X1"
+    ],
+    [
+        "Pyro System, Planet, and Mission Setup",
+        "Система Pyro, планеты и настройка миссий"
+    ],
+    [
+        "Reststop Hangar Replacements",
+        "Замена ангаров на станциях Reststop"
+    ],
+    [
+        "Rivers and Basins",
+        "Реки и водоемы"
+    ],
+    [
+        "Roads",
+        "Дороги"
+    ],
+    [
+        "RSI Apollo",
+        "RSI Apollo"
+    ],
+    [
+        "Salvage T0",
+        "Сальваж T0"
+    ],
+    [
+        "SQ42 - Vehicle Support",
+        "SQ42 - Поддержка транспортных средств"
+    ],
+    [
+        "Tumbril Ranger",
+        "Tumbril Ranger"
+    ],
+    [
+        "Unannounced Vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Unannounced Vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Unannounced Vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Underground Facilities",
+        "Подземные сооружения"
+    ],
+    [
+        "",
+        ""
+    ],
+    [
+        "**Ongoing Sprints**",
+        "**Текущие спринты**"
+    ],
+    [
+        "Animatable Gunner Helmet",
+        "Анимированный шлем пулеметчика"
+    ],
+    [
+        "Archon",
+        "Архон"
+    ],
+    [
+        "ATC System Rewrite",
+        "Переписывание системы воздушного трафика"
+    ],
+    [
+        "Banu Merchantman",
+        "Banu Merchantman"
+    ],
+    [
+        "Breakers Yard",
+        "Breakers Yard"
+    ],
+    [
+        "Bug Fixing & Tech Debt",
+        "Исправление багов и технический долг"
+    ],
+    [
+        "Building Interiors",
+        "Интерьеры зданий"
+    ],
+    [
+        "Cargo System Refactor",
+        "Переработка грузовой системы"
+    ],
+    [
+        "Cave Archetypes",
+        "Архетипы пещер"
+    ],
+    [
+        "Chapter 01",
+        "Глава 01"
+    ],
+    [
+        "Chapter 04",
+        "Глава 04"
+    ],
+    [
+        "Chapter 05",
+        "Глава 05"
+    ],
+    [
+        "Chapter 06",
+        "Глава 06"
+    ],
+    [
+        "Chapter 07",
+        "Глава 07"
+    ],
+    [
+        "Chapter 08",
+        "Глава 08"
+    ],
+    [
+        "Chapter 09",
+        "Глава 09"
+    ],
+    [
+        "Chapter 10",
+        "Глава 10"
+    ],
+    [
+        "Chapter 11",
+        "Глава 11"
+    ],
+    [
+        "Chapter 12",
+        "Глава 12"
+    ],
+    [
+        "Chapter 14",
+        "Глава 14"
+    ],
+    [
+        "Chapter 15",
+        "Глава 15"
+    ],
+    [
+        "Chapter 18",
+        "Глава 18"
+    ],
+    [
+        "Chapter 19",
+        "Глава 19"
+    ],
+    [
+        "Chapter 20",
+        "Глава 20"
+    ],
+    [
+        "Chapter 21",
+        "Глава 21"
+    ],
+    [
+        "Chapter 22",
+        "Глава 22"
+    ],
+    [
+        "Chapter 23",
+        "Глава 23"
+    ],
+    [
+        "Chapter 26",
+        "Глава 26"
+    ],
+    [
+        "Character Work",
+        "Работа над персонажами"
+    ],
+    [
+        "Chemline",
+        "Chemline"
+    ],
+    [
+        "Derelict Spaceships - Points of Interest",
+        "Заброшенные космические корабли - точки интереса"
+    ],
+    [
+        "DGS Crash Recovery",
+        "Восстановление DGS после краша"
+    ],
+    [
+        "DGS Mesh Node",
+        "DGS Mesh Node"
+    ],
+    [
+        "DNA Head Textures Update",
+        "Обновление ДНК текстур голов"
+    ],
+    [
+        "Drake Corsair",
+        "Drake Corsair"
+    ],
+    [
+        "Drake Vulture",
+        "Drake Vulture"
+    ],
+    [
+        "Dynamic Events",
+        "Динамические события"
+    ],
+    [
+        "Ecosystem Enhancements",
+        "Улучшения экосистемы"
+    ],
+    [
+        "Enemy Characters",
+        "Враждебные персонажи"
+    ],
+    [
+        "Error Reporting & Crash Handling",
+        "Отчеты об ошибках и обработка крашей"
+    ],
+    [
+        "EVA T2",
+        "Выход в открытый космос T2"
+    ],
+    [
+        "Fire Extinguisher",
+        "Огнетушитель"
+    ],
+    [
+        "FPS Devices T1",
+        "Устройства FPS T1"
+    ],
+    [
+        "FPS Radar / Scanning",
+        "FPS радар / сканирование"
+    ],
+    [
+        "Frontier Clothing",
+        "Одежда в стиле фронтира"
+    ],
+    [
+        "Greycat Industrial Cydnus Mining Droid",
+        "Майнинговый дроид Greycat Industrial Cydnus"
+    ],
+    [
+        "Hacking T0",
+        "Хакинг T0"
+    ],
+    [
+        "Infiltrate / Defend Mission",
+        "Миссия по проникновению/защите"
+    ],
+    [
+        "Jump Points",
+        "Прыжковые точки"
+    ],
+    [
+        "Life Support T0",
+        "Жизнеобеспечение T0"
+    ],
+    [
+        "Login Flow",
+        "Потоковый вход *в игру*"
+    ],
+    [
+        "Long Term Persistence Enhancements",
+        "Улучшение Долгосрочного Постоянства (LTP)"
+    ],
+    [
+        "Look IK Architecture Refactor",
+        "Переработка архитектуры Look IK"
+    ],
+    [
+        "MISC Hull A",
+        "MISC Hull A"
+    ],
+    [
+        "Miscellaneous Support",
+        "Разная поддержка"
+    ],
+    [
+        "Origin X1",
+        "Origin X1"
+    ],
+    [
+        "Outpost Homestead - Independent & Outlaw",
+        "Outpost Homestead - Независимый и вне закона"
+    ],
+    [
+        "Outpost Theme Variants",
+        "Варианты тем Аутпостов"
+    ],
+    [
+        "Persistent Streaming and Server Meshing",
+        "Persistent Streaming и Server Meshing"
+    ],
+    [
+        "Personal Inventory",
+        "Личный инвентарь"
+    ],
+    [
+        "Player Interaction Experience T2 - Visor HUD & Helmet",
+        "Опыт взаимодействия с игроком T2 - HUD визора и шлема"
+    ],
+    [
+        "Pyro Space Stations",
+        "Космические станции в Pyro"
+    ],
+    [
+        "Quantum Simulation",
+        "Квантовая симуляция"
+    ],
+    [
+        "RaStar",
+        "RaStar"
+    ],
+    [
+        "Rescue / Transport Mission",
+        "Спасательная / транспортная миссия"
+    ],
+    [
+        "Reststop Hangar Replacements",
+        "Замена ангаров на Reststop"
+    ],
+    [
+        "RSI Scorpius",
+        "RSI Scorpius"
+    ],
+    [
+        "Salvage T0",
+        "Саваж T0"
+    ],
+    [
+        "Services Distributed Load Testing System",
+        "Services Distributed Load Testing System"
+    ],
+    [
+        "Ship to Ship Refuelling",
+        "Дозаправка с корабля на корабль"
+    ],
+    [
+        "Spacescaping",
+        "Spacescaping"
+    ],
+    [
+        "Theaters of War - Miscellaneous Support",
+        "Театры войны - разная поддержка"
+    ],
+    [
+        "Unannounced Vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Unannounced Vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Unannounced Vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Unannounced Vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Unannounced Facilities",
+        "Неанонсированные сооружения"
+    ],
+    [
+        "Underwater Rendering / Caustics",
+        "Подводный рендеринг / каустика"
+    ],
+    [
+        "XenoThreat Armor",
+        "Броня XenoThreat"
+    ],
+    [
+        "Zero G Push & Pull",
+        "Тяни-толкай в невесомости"
+    ],
+    [
+        "**Progress Tracker Update | Q1 2022 | Week 8 & 9**",
+        "**Обновление трекера прогресса | Q1 2022 | Неделя 8 и 9**"
+    ],
+    [
+        "https://robertsspaceindustries.com/roadmap/progress-tracker",
+        "https://robertsspaceindustries.com/roadmap/progress-tracker"
+    ],
+    [
+        "",
+        ""
+    ],
+    [
+        "**Sprints Started**",
+        "**Начатые спринты**"
+    ],
+    [
+        "FPS Devices T1",
+        "FPS устройства T1"
+    ],
+    [
+        "Lava Tech",
+        "Технология лавы"
+    ],
+    [
+        "Player Interaction Experience T2 - Visor HUD & Helmet",
+        "Опыт взаимодействия T2 - HUD визора и шлема"
+    ],
+    [
+        "Unannounced Vehicle",
+        "Необъявленный транспорт"
+    ],
+    [
+        "",
+        ""
+    ],
+    [
+        "**Sprints Concluded**",
+        "**Завершенные спринты**"
+    ],
+    [
+        "AI - Landing Improvements",
+        "ИИ - Улучшения приземления"
+    ],
+    [
+        "AI - Navigation Links - Ladders / Ledge Grab",
+        "ИИ - Навигационные связи - Лестницы / Ухват за лестницу"
+    ],
+    [
+        "Chapter 03",
+        "Глава 03"
+    ],
+    [
+        "Consolidated Outland HoverQuad",
+        "Consolidated Outland HoverQuad"
+    ],
+    [
+        "Enemy Ships",
+        "Вражеские корабли"
+    ],
+    [
+        "Entity Stow / Destroy",
+        "Складирование / уничтожение объектов"
+    ],
+    [
+        "Female Player Head",
+        "Женская голова игрока"
+    ],
+    [
+        "Greycat Industrial Salvage Backpack",
+        "Рюкзак для сальважа от Greycat Industrial"
+    ],
+    [
+        "Greycat PTV Gold Standard",
+        "Золотой стандарт Greycat PTV"
+    ],
+    [
+        "Hospital Surgeon",
+        "Больничный хирург"
+    ],
+    [
+        "Hybrid Service",
+        "Гибридная служба"
+    ],
+    [
+        "MISC Hull D",
+        "MISC Hull D"
+    ],
+    [
+        "Shops and Patrons",
+        "Магазины и посетители"
+    ],
+    [
+        "Vending Machine Utilization T0",
+        "Использование торговых автоматов T0"
+    ],
+    [
+        "Weapon Handling T2",
+        "Обращение с оружием T2"
+    ],
+    [
+        "",
+        ""
+    ],
+    [
+        "**Ongoing Sprints**",
+        "**Текущие спринты**"
+    ],
+    [
+        ":SC: **Star Citizen**",
+        ":SC: **Star Citizen**"
+    ],
+    [
+        "AI - Usable System V2",
+        "ИИ - Используемая система V2"
+    ],
+    [
+        "ATC System Rewrite",
+        "Переписывание системы воздушного трафика"
+    ],
+    [
+        "Atlas",
+        "Атлас"
+    ],
+    [
+        "Atmospheric Pressure Damage",
+        "Повреждения от атмосферного давления"
+    ],
+    [
+        "Banu Merchantman",
+        "Banu Merchantman"
+    ],
+    [
+        "Bombs",
+        "Бомбы"
+    ],
+    [
+        "Bounty Hunter V2",
+        "Охотник за головами V2"
+    ],
+    [
+        "Building Interiors",
+        "Интерьеры зданий"
+    ],
+    [
+        "Cargo System Refactor",
+        "Рефакторинг грузовой системы"
+    ],
+    [
+        "Cave Archetypes",
+        "Архетипы пещер"
+    ],
+    [
+        "Civilian NPC Movement Improvements",
+        "Улучшения передвижения гражданских NPC"
+    ],
+    [
+        "Commodity Kiosk",
+        "Товарный киоск"
+    ],
+    [
+        "Derelict Spaceships - Points of Interest",
+        "Заброшенные космолёты - точки интереса"
+    ],
+    [
+        "DGS Mesh Node",
+        "DGS Mesh Node"
+    ],
+    [
+        "Drake Corsair",
+        "Drake Corsair"
+    ],
+    [
+        "Drake Vulture",
+        "Drake Vulture"
+    ],
+    [
+        "Dynamic Events",
+        "Динамические события"
+    ],
+    [
+        "Dynamic Population",
+        "Динамическое население"
+    ],
+    [
+        "Error Reporting & Crash Handling",
+        "Отчеты об ошибках и обработка крашей"
+    ],
+    [
+        "Frontier Clothing",
+        "Одежда в стиле фронтира"
+    ],
+    [
+        "HEX",
+        "HEX"
+    ],
+    [
+        "Infiltrate / Defend Mission",
+        "Миссия с вторжением/защитой"
+    ],
+    [
+        "Jump Point Spacescaping",
+        "Космические виды вокруг прыжковой точки"
+    ],
+    [
+        "Levski - Hospital Interior Location",
+        "Левски - Интерьер больницы"
+    ],
+    [
+        "Life Support T0",
+        "Жизнеобеспечение T0"
+    ],
+    [
+        "Lockable Containers",
+        "Запираемые контейнеры"
+    ],
+    [
+        "Login Flow",
+        "Потоковый вход *в игру*"
+    ],
+    [
+        "Lorville - Hospital Interior Location",
+        "Лорвилль - Интерьер больницы"
+    ],
+    [
+        "Lorville Cityscape",
+        "Городской пейзаж Лорвилля"
+    ],
+    [
+        "MISC Hull A",
+        "MISC Hull A"
+    ],
+    [
+        "MISC Odyssey",
+        "MISC Odyssey"
+    ],
+    [
+        "Name Resolving API",
+        "API разрешения имен"
+    ],
+    [
+        "NPC Scheduler Service",
+        "Служба планировщика NPC"
+    ],
+    [
+        "NPC Tracker Service",
+        "Служба отслеживания NPC"
+    ],
+    [
+        "Origin 600i Gold Standard",
+        "Золотой стандарт Origin 600i"
+    ],
+    [
+        "Origin X1",
+        "Origin X1"
+    ],
+    [
+        "Outpost Homestead - Independent & Outlaw",
+        "Outpost Homestead - Независимый и вне закона"
+    ],
+    [
+        "Outpost Theme Variants",
+        "Варианты темы форпоста"
+    ],
+    [
+        "Persistent Hangars",
+        "Постоянные ангары"
+    ],
+    [
+        "Persistent Streaming and Server Meshing",
+        "Persistent Streaming и Server Meshing"
+    ],
+    [
+        "Player Item Shard Transition",
+        "Передача предметов игрока по шардам"
+    ],
+    [
+        "Probability Volume Encounter Density Refactor",
+        "Probability Volume Encounter Density Refactor"
+    ],
+    [
+        "Pyro Space Stations",
+        "Космические станции Pyro"
+    ],
+    [
+        "Pyro System, Planet, and Mission Setup",
+        "Система Pyro, планеты и настройка миссий"
+    ],
+    [
+        "Quantum Simulation",
+        "Квантовая симуляция"
+    ],
+    [
+        "Quantum Travel Experience",
+        "Опыт квантовых путешествий"
+    ],
+    [
+        "RaStar",
+        "RaStar"
+    ],
+    [
+        "Replication Layer Entity Authority",
+        "Управление сущностями уровня репликации"
+    ],
+    [
+        "Rescue / Transport Mission",
+        "Спасательная / транспортная миссия"
+    ],
+    [
+        "Resource Management",
+        "Управление ресурсами"
+    ],
+    [
+        "Roads",
+        "Дороги"
+    ],
+    [
+        "RSI Scorpius",
+        "RSI Scorpius"
+    ],
+    [
+        "Server Streaming",
+        "Server Streaming"
+    ],
+    [
+        "Services Distributed Load Testing System",
+        "Система распределенного нагрузочного тестирования сервисов"
+    ],
+    [
+        "Ship to Ship Refuelling",
+        "Заправка с корабля на корабль"
+    ],
+    [
+        "Theaters of War - Miscellaneous Support",
+        "Театры войны - разная поддержка"
+    ],
+    [
+        "Unannounced Vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Unannounced Vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Unannounced Vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Unannounced Vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Unannounced Vehicle",
+        "Неанонсированный транспорт"
+    ],
+    [
+        "Underground Facilities",
+        "Подземные сооружения"
+    ],
+    [
+        "Virtual AI Service",
+        "Виртуальная служба ИИ"
+    ],
+    [
+        "Wheeled Vehicle Physics Improvements",
+        "Улучшение физики колесных транспортных средств"
+    ],
+    [
+        "XenoThreat Armour",
+        "Броня XenoThreat"
+    ],
+    [
+        "",
+        ""
+    ],
+    [
+        ":SC: **Star Citizen & Squadron 42**",
+        ":SC:**Star Citizen & Squadron 42**"
+    ],
+    [
+        "AI - Arcade Machine",
+        "AI - Аркадный автомат"
+    ],
+    [
+        "AI - Untrained Combat",
+        "AI - Необученный бой"
+    ],
+    [
+        "Animatable Gunner Helmet",
+        "Анимированный шлем пулеметчика"
+    ],
+    [
+        "Asset Reference Database",
+        "База данных ссылок на ассеты"
+    ],
+    [
+        "Charge / Drain T0",
+        "Зарядка / Разрядка T0"
+    ],
+    [
+        "DNA Head Texture Update",
+        "Обновление ДНК текстур головы"
+    ],
+    [
+        "ECUS Improvements",
+        "Улучшения планировщика обновления компонентов сущности (ECUS )"
+    ],
+    [
+        "Entity Properties Plugin",
+        "Плагин свойств сущностей"
+    ],
+    [
+        "EVA T2",
+        "Выход в открытый космос T2"
+    ],
+    [
+        "Fire Extinguisher",
+        "Огнетушитель"
+    ],
+    [
+        "Fire Hazard",
+        "Пожарная опасность"
+    ],
+    [
+        "FPS Radar / Scanning",
+        "FPS радар / сканирование"
+    ],
+    [
+        "Gen12 - Renderer T1",
+        "Gen12 - Renderer T1"
+    ],
+    [
+        "Greycat Industrial Salvage Tool",
+        "Сальважный инструмент Greycat Industrial"
+    ],
+    [
+        "Greycat Industrial Tractor Tool",
+        "Тяговое устройство Greycat Industrial"
+    ],
+    [
+        "Hacking T0",
+        "Хакинг T0"
+    ],
+    [
+        "Healing T0 / Actor Status T1",
+        "Исцеление T0 / Статус персонажа T1"
+    ],
+    [
+        "Improved OC Workflow",
+        "Улучшенный процесс работы Контейнеров Объектов"
+    ],
+    [
+        "Jump Points",
+        "Прыжковые точки"
+    ],
+    [
+        "Look IK Architecture Refactor",
+        "Переработка архитектуры IK"
+    ],
+    [
+        "Mag Stripping / Refill",
+        "Вытаскивание / перезарядка патронов"
+    ],
+    [
+        "MFD Rework",
+        "Переработка многофункциональных дисплеев корабля"
+    ],
+    [
+        "MISC Hull C",
+        "MISC Hull C"
+    ],
+    [
+        "Modular Shaders",
+        "Модульные шейдеры"
+    ],
+    [
+        "Move Planet to Compute",
+        "Move Planet to Compute"
+    ],
+    [
+        "Personal Inventory",
+        "Личный инвентарь"
+    ],
+    [
+        "Physical Damage & Breakability",
+        "Физический урон и разрушаемость"
+    ],
+    [
+        "Physics - Ropes Simulation",
+        "Физика - симуляция канатов"
+    ],
+    [
+        "Player Interaction Experience T0 - Hints & Interactions",
+        "Опыт взаимодействия с игроком T0 - подсказки и взаимодействия"
+    ],
+    [
+        "Player Interaction Experience T1 - Lockers & Inventory",
+        "Опыт взаимодействия T1 - шкафчики и инвентарь"
+    ],
+    [
+        "Reputation V2",
+        "Репутация V2"
+    ],
+    [
+        "Salvage T0",
+        "Сальваж T0"
+    ],
+    [
+        "Shield Emitters",
+        "Излучатели щита"
+    ],
+    [
+        "Ship CPU",
+        "Процессор корабля"
+    ],
+    [
+        "StarWords Improvements",
+        "Улучшения StarWords"
+    ],
+    [
+        "Subsumption Editor Integration",
+        "Интеграция редактора Subsumption"
+    ],
+    [
+        "VisArea Improvements",
+        "Улучшение области видимости"
+    ],
+    [
+        "Weapon Misfire & Wear",
+        "Осечки и износ оружия"
+    ],
+    [
+        "Zero G Push & Pull",
+        "Тяни-толкай в невесомости"
+    ],
+    [
+        "",
+        ""
+    ],
+    [
+        ":SQ: **Squadron 42**",
+        ":SQ: **Squadron 42**"
+    ],
+    [
+        "Archon",
+        "Archon"
+    ],
+    [
+        "Breakers Yard",
+        "Breakers Yard"
+    ],
+    [
+        "Chapter 01",
+        "Глава 01"
+    ],
+    [
+        "Chapter 04",
+        "Глава 04"
+    ],
+    [
+        "Chapter 05",
+        "Глава 05"
+    ],
+    [
+        "Chapter 06",
+        "Глава 06"
+    ],
+    [
+        "Chapter 07",
+        "Глава 07"
+    ],
+    [
+        "Chapter 08",
+        "Глава 08"
+    ],
+    [
+        "Chapter 09",
+        "Глава 09"
+    ],
+    [
+        "Chapter 10",
+        "Глава 10"
+    ],
+    [
+        "Chapter 11",
+        "Глава 11"
+    ],
+    [
+        "Chapter 12",
+        "Глава 12"
+    ],
+    [
+        "Chapter 13",
+        "Глава 13"
+    ],
+    [
+        "Chapter 14",
+        "Глава 14"
+    ],
+    [
+        "Chapter 15",
+        "Глава 15"
+    ],
+    [
+        "Chapter 18",
+        "Глава 18"
+    ],
+    [
+        "Chapter 19",
+        "Глава 19"
+    ],
+    [
+        "Chapter 20",
+        "Глава 20"
+    ],
+    [
+        "Chapter 21",
+        "Глава 21"
+    ],
+    [
+        "Chapter 22",
+        "Глава 22"
+    ],
+    [
+        "Chapter 23",
+        "Глава 23"
+    ],
+    [
+        "Chapter 26",
+        "Глава 26"
+    ],
+    [
+        "Character Work",
+        "Работа над персонажами"
+    ],
+    [
+        "Chemline",
+        "Chemline"
+    ],
+    [
+        "Enemy Characters",
+        "Вражеские персонажи"
+    ],
+    [
+        "Greycat Industrial Cydnus Mining Droid",
+        "Майнинговый дроид Greycat Industrial Cydnus"
+    ],
+    [
+        "Spacescaping",
+        "Космические виды"
+    ],
+    [
+        "SQ42 - Vehicle Support",
+        "SQ42 - поддержка транспорта"
+    ]
+]
