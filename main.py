@@ -1,7 +1,6 @@
 from encodings import utf_8
 from operator import contains
 from queue import Empty
-import string
 import json
 import os
 
@@ -9,6 +8,33 @@ english = open('putEnglishHere.txt', 'r', encoding="utf_8")
 russian = open('russian.txt', 'r', encoding="utf_8")
 
 emojis = [':SCN1: ', ':SCN2: ', ':SCN3: ', ':SCN4: ', ':SCN5: ', ':SCN6: ', '<:SCN1:769757680335192065> ', '<:SCN2:769757680327196692> ', '<:SCN3:769757680285515807> ', '<:SCN4:769757680423796756> ', '<:SCN5:769757680435724308> ', '<:SCN6:769757680360357898> ', '\n', ' :SC:', ' :SQ:', "]"]
+works = [
+    [
+        "Start date extended",
+        "Начало работ отложено"
+    ],
+    [
+        "Work added",
+        "Кол. задач выросло"
+    ],
+    [
+        "End date extended",
+        "Дедлайн отложен"
+    ],
+    [
+        "End date retracted",
+        "Дедлайн приближен"
+    ],
+    [
+        "Work removed",
+        "Кол. задач снизилось"
+    ]
+]
+
+def out_yellow(text):
+    print("\033[33m {}" .format(text))
+def out_white(text):
+    print("\033[0m {}" .format(text))
 
 def cuting(file):
     cutedText = []
@@ -52,7 +78,7 @@ def findTranslation(data, line):
         if dictLine[0] != "" and dictLine[0] in line:
             result = line.replace(dictLine[0], dictLine[1])
             #result = result.replace("**", "\n**", 1)
-            print(result)
+            out_white(result)
             return True
     return False
 
@@ -66,8 +92,10 @@ with open('data.json', encoding='utf-8') as data:
     for line in english:
         if line != "":
             line = line.replace("\n", "")
+            for i in works:
+                line = line.replace(i[0], i[1], 2)
             if findTranslation(data, line) == False:
-                print(line)
+                out_yellow(line)
 
 english.close
 russian.close
