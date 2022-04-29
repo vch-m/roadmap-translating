@@ -14,6 +14,10 @@ works = [
         "Начало работ отложено"
     ],
     [
+        "Start date retracted",
+        "Начало работ приближено"
+    ],
+    [
         "Work added",
         "Кол. задач выросло"
     ],
@@ -77,15 +81,11 @@ def findTranslation(data, line):
     for dictLine in data:
         if dictLine[0] != "" and dictLine[0] in line:
             result = line.replace(dictLine[0], dictLine[1])
-            #result = result.replace("**", "\n**", 1)
-            out_white(result)
+            russian.write(result + '\n')
             return True
     return False
 
-#finalRussian = cuting(russian)
-#finalEnglish = cuting(english)
-#jsonWork(finalEnglish, finalRussian)
-
+russian = open('russian.txt', 'w', encoding="utf_8")
 with open('data.json', encoding='utf-8') as data:
     data = json.load(data)
     
@@ -95,7 +95,11 @@ with open('data.json', encoding='utf-8') as data:
             for i in works:
                 line = line.replace(i[0], i[1], 2)
             if findTranslation(data, line) == False:
-                out_yellow(line)
+                print(line)
+                russian.write(line + '\n')
 
+finalRussian = cuting(russian)
+finalEnglish = cuting(english)
+jsonWork(finalEnglish, finalRussian)
 english.close
 russian.close

@@ -1,196 +1,151 @@
-**Обновление трекера прогресса | 13 апреля 2022**
+**Progress Tracker Update | 27 April 2022**
 <https://robertsspaceindustries.com/roadmap/progress-tracker>
 <https://shinytracker.app/>
 
 **Добавленные задачи**
-:SCN1: Карабкание (Mantle) T2 [1 Dev] :SC:
-:SCN1: Точки Лагранжа у microTech [2 Devs] :SC:
-:SCN1: Использование предметов сидя [2 Devs] :SC: :SQ:
-:SCN1: Скольжение [1 Dev] :SC: :SQ:
-:SCN1: Одежда моды Стэнтона [2 Devs] :SC:
-:SCN1: Неанонсированный транспорт [1 Dev] :SC:
+:SCN1: Пераработка системы AR и маркеров на карте [3 Devs] :SC: :SQ:
+:SCN1: UI дверей/шлюзов/световых панелей [2 Devs] :SC: :SQ:
+:SCN1: Переработка mobiGlas [3 Devs] :SC: :SQ:
+:SCN1: Переработка визора/линз [2 Devs] :SC: :SQ:
 
 **Обновленные задачи**
-:SCN4: Статус персонажа T2 [Начало работ отложено, Кол. задач снизилось] :SC: :SQ:
-:SCN4: Анимированный шлем пулеметчика [Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
-:SCN4: Archon [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: База данных ссылок на ассеты [Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
-:SCN4: Atlas [Дедлайн отложен, Кол. задач выросло] :SC:
-:SCN4: Инструменты для переноса звука в анимацию [Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
+:SCN4: Argo SRV [Дедлайн отложен, Кол. задач выросло] :SC:
 :SCN4: Banu Merchantman [Кол. задач выросло] :SC:
-:SCN4: Охотник за головами V2 [Кол. задач снизилось] :SC:
+:SCN4: Параметры движения лодок [Кол. задач выросло] :SQ:
 :SCN4: Устранение багов и технического долга [Кол. задач выросло] :SC: :SQ:
-:SCN4: Интерьеры зданий [Кол. задач выросло] :SC:
-:SCN4: Рефакторинг грузовой системы [Кол. задач выросло] :SC:
-:SCN4: Часть 01 [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Часть 02 [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Часть 04 [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Часть 06 [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Часть 08 [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Часть 09 [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Часть 10 [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Часть 11 [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Часть 12 [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Часть 13 [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Часть 14 [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Часть 15 [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Часть 18 [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Часть 19 [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Часть 20 [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Часть 21 [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Часть 22 [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Часть 23 [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Часть 25 [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Часть 26 [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Работа над персонажами [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Chemline [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4:  Заброшенные корабли - точки интереса [Кол. задач выросло] :SC:
-:SCN4: Восстановление DGS после краша [Дедлайн отложен, Кол. задач выросло] :SC:
-:SCN4: DGS Mesh Node [Дедлайн отложен, Кол. задач выросло] :SC:
-:SCN4: Электромагнитные боеприпасы [Начало работ отложено, Дедлайн отложен, Кол. задач выросло] :SC:
-:SCN4: Drake Vulture [Дедлайн отложен, Кол. задач выросло] :SC:
-:SCN4: Улучшения в ECUS [Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
-:SCN4: Вражеские персонажи [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Плагин свойств сущностей [Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
-:SCN4: Выход в открытый космос T2 [Кол. задач выросло] :SC: :SQ:
-:SCN4: Огнетушитель  [Кол. задач снизилось] :SC: :SQ:
-:SCN4: Пожарная опасность [Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
-:SCN4: Зенитные боеприпасы [Дедлайн отложен, Кол. задач выросло] :SC:
-:SCN4: Устройства для FPS T1  [Кол. задач выросло] :SC: :SQ:
+:SCN4: Часть 01 [Кол. задач выросло] :SQ:
+:SCN4: Контрольные точки - Восстановление состояния корабля [Кол. задач выросло] :SQ:
+:SCN4: Chemline [Кол. задач выросло] :SQ:
+:SCN4: Стыковка - Корабль к кораблю [Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
+:SCN4: Drake Corsair [Кол. задач выросло] :SC:
+:SCN4: Drake Vulture [Кол. задач выросло] :SC:
+:SCN4: Система событий - одноразовые триггеры [Кол. задач выросло] :SC:
 :SCN4: Радар / сканирование для FPS [Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
-:SCN4: Одежда в стиле фронтира [Дедлайн отложен, Кол. задач выросло] :SC:
-:SCN4: FS-Tech-Anim - Интеграция ассетов [Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
-:SCN4: Гейни [Дедлайн отложен, Кол. задач выросло] :SQ:
-:SCN4: Gen12 - Renderer T1 [Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
-:SCN4: Рюкзак для сальважа от Greycat Industrial [Дедлайн отложен, Кол. задач выросло] :SC:
-:SCN4: Сальважный инструмент Greycat Industrial [Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
-:SCN4: Тяговое устройство Greycat Industrial [Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
-:SCN4: Хакинг T0 [Кол. задач выросло] :SC: :SQ:
-:SCN4: Исцеление T0 / Статус персонажа T1 [Дедлайн приближен, Кол. задач снизилось] :SC: :SQ:
-:SCN4: Больничный хирург [Дедлайн отложен, Кол. задач выросло] :SC:
-:SCN4: Зажигательные боеприпасы [Начало работ отложено, Дедлайн отложен, Кол. задач выросло] :SC:
+:SCN4: Майнинговый дроид Greycat Industrial Cydnus [Дедлайн отложен, Кол. задач выросло] :SQ:
 :SCN4: Прыжковые точки [Дедлайн приближен, Кол. задач снизилось] :SC: :SQ:
-:SCN4: Лестниці T1 [Дедлайн приближен, Кол. задач снизилось] :SC: :SQ:
+:SCN4: Рессоры шасси [Кол. задач выросло] :SQ:
 :SCN4: Жизнеобеспечение T0 [Кол. задач выросло] :SC:
-:SCN4: Городской пейзаж Лорвилля [Кол. задач выросло] :SC:
-:SCN4: Вытаскивание / перезарядка патронов  [Дедлайн приближен] :SC: :SQ:
-:SCN4: Загрузка Maya из P4K [Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
+:SCN4: Переработка карты и радарной системы [Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
+:SCN4: Переработка многофункциональных дисплеев корабля [Дедлайн приближен, Кол. задач снизилось] :SC: :SQ:
+:SCN4: Точки Лагранжа у microTech [Кол. задач выросло] :SC:
+:SCN4: Перенос устаревших XML-файлов транспорта в Datacore [Кол. задач выросло] :SC: :SQ:
+:SCN4: MISC Hull C [Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
 :SCN4: Разная поддержка [Кол. задач выросло] :SC: :SQ:
-:SCN4: API разрешения имён [Дедлайн отложен, Кол. задач выросло] :SC:
-:SCN4: Outpost Homestead - Независимый и вне закона [Кол. задач выросло] :SC:
-:SCN4: Личный инвентарь [Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
-:SCN4: Физические повреждения и разрушаемость [Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
-:SCN4: Физика - симуляция канатов [Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
-:SCN4: Плазменные боеприпасы [Начало работ отложено, Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
-:SCN4: Опыт взаимодействия с игроком T0 - подсказки и взаимодействия - Hints & Interactions [Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
-:SCN4: Передвижение лежа Т1 [Дедлайн приближен, Кол. задач снизилось] :SC: :SQ:
-:SCN4: Бесконтактные мины [Дедлайн отложен, Кол. задач выросло] :SC:
-:SCN4: Космические станции Pyro [Кол. задач выросло] :SC:
-:SCN4: Система Pyro, планеты и настройка миссий [Кол. задач выросло] :SC:
-:SCN4: Управление сущностями уровня репликации [Дедлайн отложен, Кол. задач выросло] :SC:
-:SCN4: Спасательная / транспортная миссия [Дедлайн отложен, Кол. задач выросло] :SC:
+:SCN4: Origin X1 [Дедлайн приближен, Кол. задач снизилось] :SC:
+:SCN4: Persistent Streaming и Server Meshing [Кол. задач снизилось] :SC:
+:SCN4: Радар, сканирование и пинг [Кол. задач выросло] :SC: :SQ:
+:SCN4: Управление ресурсами [Кол. задач выросло] :SC:
+:SCN4: Замена OC комнат Retaliator`а [Кол. задач выросло] :SC: :SQ:
+:SCN4: RSI Apollo [Дедлайн приближен, Кол. задач выросло] :SC:
 :SCN4: RSI Scorpius [Дедлайн отложен, Кол. задач выросло] :SC:
 :SCN4: Сальваж T0 [Кол. задач выросло] :SC: :SQ:
-:SCN4: Корабельный процессор [Кол. задач выросло] :SC: :SQ:
-:SCN4: Магазины и посетители [Дедлайн отложен, Кол. задач выросло] :SC:
-:SCN4: Космические мины [Кол. задач выросло] :SC:
-:SCN4: Улучшения StarWords [Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
-:SCN4: Неанонсированный транспорт [Кол. задач выросло] :SC:
+:SCN4: SDF щиты [Кол. задач выросло] :SC: :SQ:
+:SCN4: Корабельный процессор [Дедлайн приближен, Кол. задач снизилось] :SC: :SQ:
+:SCN4: Космические мины [Дедлайн приближен, Кол. задач снизилось] :SC:
+:SCN4: SQ42 - поддержка транспорта [Кол. задач выросло] :SQ:
+:SCN4: Theaters of War - Разная поддержка [Дедлайн приближен, Кол. задач снизилось] :SC:
+:SCN4: Tumbril Nova Tonk [Кол. задач выросло] :SC: :SQ:
+:SCN4: Tumbril Ranger [Начало работ отложено, Кол. задач снизилось] :SC:
+:SCN4: Улучшение удобства турели [Начало работ отложено, Дедлайн приближен, Кол. задач снизилось] :SC: :SQ:
 :SCN4: Неанонсированный транспорт [Дедлайн отложен, Кол. задач выросло] :SC:
-:SCN4: Улучшение области видимости [Дедлайн отложен, Кол. задач выросло] :SC: :SQ:
-:SCN4: Осечки и износ оружия [Кол. задач выросло] :SC: :SQ:
-:SCN4: Броня XenoThreat [Кол. задач снизилось] :SC:
-:SCN4: Тяни-толкай в невесомости [Кол. задач выросло] :SC: :SQ:
+:SCN4: Неанонсированный транспорт [Дедлайн отложен, Кол. задач выросло] :SC:
+:SCN4: Неанонсированный транспорт [Дедлайн отложен, Кол. задач выросло] :SC:
+:SCN4: Неанонсированный транспорт [Начало работ приближено, Дедлайн отложен, Кол. задач выросло] :SC:
+:SCN4: Неанонсированный транспорт [Дедлайн отложен, Кол. задач выросло] :SC:
+:SCN4: Неанонсированный транспорт [Дедлайн отложен, Кол. задач выросло] :SC:
+:SCN4: Неанонсированный транспорт [Дедлайн приближен] :SC:
+:SCN4: Неанонсированный транспорт [Дедлайн отложен, Кол. задач выросло] :SC:
+:SCN4: Улучшение дверей транспорта [Кол. задач выросло] :SC:
+:SCN4: Vehicle to Vehicle Loadout Spawning [Кол. задач выросло] :SC:
+:SCN4: Тяни-толкай в невесомости [Дедлайн приближен] :SC: :SQ:
 
 **Активные задачи**
-:SCN5: Анимированный шлем пулеметчика [1 Active Dev:increase:] :SC: :SQ:
-:SCN5: Atlas [5 Active Devs:increase:] :SC:
-:SCN5: Banu Merchantman [16 Active Devs:increase:] :SC:
-:SCN5: Устранение багов и технического долга [87 Active Devs:increase:] :SC: :SQ:
-:SCN5: Интерьеры зданий [17 Active Devs:nochange:] :SC:
-:SCN5: Рефакторинг грузовой системы [10 Active Devs:increase:] :SC:
-:SCN5: Часть 01 [11 Active Devs:increase:] :SQ:
-:SCN5: Часть 02 [2 Active Devs:increase:] :SQ:
-:SCN5: Часть 06 [8 Active Devs:increase:] :SQ:
-:SCN5: Часть 08 [5 Active Devs:nochange:] :SQ:
-:SCN5: Часть 10 [8 Active Devs:increase:] :SQ:
-:SCN5: Часть 11 [7 Active Devs:increase:] :SQ:
-:SCN5: Часть 12 [18 Active Devs:increase:] :SQ:
-:SCN5: Часть 14 [9 Active Devs:increase:] :SQ:
-:SCN5: Часть 19 [8 Active Devs:increase:] :SQ:
+:SCN5: Пераработка системы AR и маркеров на карте [3 Active Devs:increase:] :SC: :SQ:
+:SCN5: Argo SRV [5 Active Devs:increase:] :SC:
+:SCN5: Atlas [5 Active Devs:nochange:] :SC:
+:SCN5: Banu Merchantman [19 Active Devs:increase:] :SC:
+:SCN5: Устранение багов и технического долга [78 Active Devs:decrease:] :SC: :SQ:
+:SCN5: Интерьеры зданий [18 Active Devs:increase:] :SC:
+:SCN5: Рефакторинг грузовой системы [7 Active Devs:decrease:] :SC:
+:SCN5: Часть 01 [13 Active Devs:increase:] :SQ:
+:SCN5: Часть 02 [2 Active Devs:nochange:] :SQ:
+:SCN5: Часть 04 [8 Active Devs:increase:] :SQ:
+:SCN5: Часть 06 [6 Active Devs:decrease:] :SQ:
+:SCN5: Часть 09 [2 Active Devs:increase:] :SQ:
+:SCN5: Часть 10 [6 Active Devs:decrease:] :SQ:
+:SCN5: Часть 11 [9 Active Devs:increase:] :SQ:
+:SCN5: Часть 12 [17 Active Devs:decrease:] :SQ:
+:SCN5: Часть 14 [10 Active Devs:increase:] :SQ:
+:SCN5: Часть 15 [3 Active Devs:increase:] :SQ:
+:SCN5: Часть 19 [8 Active Devs:nochange:] :SQ:
 :SCN5: Часть 20 [2 Active Devs:nochange:] :SQ:
-:SCN5: Часть 21 [1 Active Dev:increase:] :SQ:
-:SCN5: Часть 23 [9 Active Devs:increase:] :SQ:
-:SCN5: Часть 25 [1 Active Dev:increase:] :SQ:
-:SCN5: Часть 26 [9 Active Devs:increase:] :SQ:
-:SCN5: Работа над персонажами [37 Active Devs:increase:] :SQ:
-:SCN5: Chemline [6 Active Devs:increase:] :SQ:
+:SCN5: Часть 23 [9 Active Devs:nochange:] :SQ:
+:SCN5: Часть 26 [9 Active Devs:nochange:] :SQ:
+:SCN5: Работа над персонажами [42 Active Devs:increase:] :SQ:
+:SCN5: Chemline [7 Active Devs:increase:] :SQ:
 :SCN5: Товарный киоск [3 Active Devs:nochange:] :SC:
 :SCN5: Datacore Deserializer [1 Active Dev:nochange:] :SC:
-:SCN5: Заброшенные космические корабли - точки интереса [14 Active Devs:increase:] :SC:
-:SCN5: Восстановление DGS после краша [1 Active Dev:increase:] :SC:
-:SCN5: DGS Mesh Node [3 Active Devs:increase:] :SC:
-:SCN5: Drake Corsair [5 Active Devs:increase:] :SC:
-:SCN5: Drake Vulture [4 Active Dev:increase:] :SC:
+:SCN5:  Заброшенные корабли - точки интереса [12 Active Devs:decrease:] :SC:
+:SCN5: Восстановление DGS после краша [1 Active Dev:nochange:] :SC:
+:SCN5: DGS Mesh Node [3 Active Devs:nochange:] :SC:
+:SCN5: UI дверей/шлюзов/световых панелей [2 Active Devs:increase:] :SC: :SQ:
+:SCN5: Drake Corsair [7 Active Devs:increase:] :SC:
+:SCN5: Drake Vulture [8 Active Dev:increase:] :SC:
 :SCN5: Динамические события [9 Active Devs:nochange:] :SC:
 :SCN5: Динамическая система миссий [1 Active Dev:nochange:] :SC:
-:SCN5: Динамическое население [2 Active Devs:nochange:] :SC:
-:SCN5: Исправления в ECUS [2 Active Devs:increase:] :SC: :SQ:
-:SCN5: Вражеские персонажи [4 Active Devs:increase:] :SQ:
-:SCN5: Выход в открытый космос T2 [5 Active Devs:increase:] :SC: :SQ:
-:SCN5: Устройства для FPS T1 [1 Active Dev:nochange:] :SC: :SQ:
-:SCN5: Радар / сканирование для FPS [3 Active Devs:nochange:] :SC: :SQ:
-:SCN5: Одежда в стиле фронтира [12 Active Devs:increase:] :SC:
-:SCN5: FS-Tech-Anim - Интеграция ассетов [7 Active Devs:increase:] :SC: :SQ:
-:SCN5: Гейни [4 Active Devs:increase:] :SQ:
-:SCN5: Gen12 - Renderer T1 [9 Active Devs:increase:] :SC: :SQ:
-:SCN5: Рюкзак для сальважа от Greycat Industrial [4 Active Devs:increase:] :SC:
-:SCN5: Сальважный инструмент Greycat Industrial [1 Active Dev:increase:] :SC: :SQ:
-:SCN5: Тяговое устройство Greycat Industrial [2 Active Devs:increase:] :SC: :SQ:
-:SCN5: Хакинг T0 [4 Active Devs:increase:] :SC: :SQ:
+:SCN5: Динамическое население [3 Active Devs:increase:] :SC:
+:SCN5: Улучшения в ECUS [2 Active Devs:nochange:] :SC: :SQ:
+:SCN5: Вражеские персонажи [4 Active Devs:nochange:] :SQ:
+:SCN5: Выход в открытый космос T2 [5 Active Devs:nochange:] :SC: :SQ:
+:SCN5: Устройства для FPS T1  [1 Active Dev:nochange:] :SC: :SQ:
+:SCN5: Радар / сканирование для FPS [2 Active Devs:decrease:] :SC: :SQ:
+:SCN5: Одежда в стиле фронтира [14 Active Devs:increase:] :SC:
+:SCN5: Гейни [4 Active Devs:nochange:] :SQ:
+:SCN5: Gen12 - Renderer T1 [9 Active Devs:nochange:] :SC: :SQ:
+:SCN5: Рюкзак для сальважа от Greycat Industrial [2 Active Devs:decrease:] :SC:
+:SCN5: Хакинг T0 [3 Active Devs:decrease:] :SC: :SQ:
 :SCN5: HEX [5 Active Devs:nochange:] :SC:
-:SCN5: Больничный хирург [3 Active Devs:increase:] :SC:
-:SCN5: Прыжковые точки [8 Active Devs:increase:] :SC: :SQ:
-:SCN5: Лестницы T1 [2 Active Devs:increase:] :SC: :SQ:
-:SCN5: Наклониться над укрытием [1 Active Dev:increase:] :SC:
-:SCN5: Жизнеобеспечение T0 [1 Active Dev:decrease:] :SC:
+:SCN5: Больничный хирург [1 Active Dev:decrease:] :SC:
+:SCN5: Прыжковые точки [2 Active Devs:decrease:] :SC: :SQ:
+:SCN5: Лестниці T1 [2 Active Devs:nochange:] :SC: :SQ:
+:SCN5: Наклониться над укрытием [1 Active Dev:nochange:] :SC:
 :SCN5: Потоковый вход *в игру* [9 Active Devs:nochange:] :SC:
 :SCN5: Городской пейзаж Лорвилля [2 Active Devs:nochange:] :SC:
-:SCN5: Точки Лагранжа у microTech [2 Active Devs:increase:] :SC:
-:SCN5: MISC Hull C [2 Active Devs:nochange:] :SC: :SQ:
-:SCN5: MISC Hull E [1 Active Dev:increase:] :SC:
-:SCN5: MISC Odyssey [2 Active Devs:increase:] :SC:
-:SCN5: Разная поддержка [55 Active Devs:increase:] :SC: :SQ:
-:SCN5: Origin X1 [2 Active Devs:increase:] :SC:
-:SCN5: Outpost Homestead - Независимый и вне закона [27 Active Devs:increase:] :SC:
+:SCN5: Переработка карты и радарной системы [3 Active Devs:increase:] :SC: :SQ:
+:SCN5: Загрузка Maya из P4K [5 Active Devs:increase:] :SC: :SQ:
+:SCN5: Точки Лагранжа у microTech [4 Active Devs:increase:] :SC:
+:SCN5: MISC Hull C [3 Active Devs:increase:] :SC: :SQ:
+:SCN5: MISC Hull E [1 Active Dev:nochange:] :SC:
+:SCN5: Разная поддержка [73 Active Devs:increase:] :SC: :SQ:
+:SCN5: Outpost Homestead - Независимый и вне закона [33 Active Devs:increase:] :SC:
 :SCN5: Варианты тем аутпостов [11 Active Devs:nochange:] :SC:
 :SCN5: Постоянные ангары [7 Active Devs:nochange:] :SC:
-:SCN5: Persistent Streaming и Server Meshing [26 Active Devs:decrease:] :SC:
-:SCN5: Личный инвентарь [1 Active Dev:decrease:] :SC: :SQ:
-:SCN5: Физические повреждения и разрушаемость [3 Active Devs:increase:] :SC: :SQ:
-:SCN5: Физика - симуляция канатов [1 Active Dev:increase:] :SC: :SQ:
-:SCN5: Опыт взаимодействия T1 - шкафчики и инвентарь [2 Active Devs:increase:] :SC: :SQ:
-:SCN5: Опыт взаимодействия T2 - HUD визора и шлема [1 Active Dev:decrease:] :SC: :SQ:
-:SCN5: Отражения игрока [1 Active Dev:increase:] :SC:
+:SCN5: Persistent Streaming и Server Meshing [19 Active Devs:decrease:] :SC:
+:SCN5: Личный инвентарь [1 Active Dev:nochange:] :SC: :SQ:
+:SCN5: Физические повреждения и разрушаемость [3 Active Devs:nochange:] :SC: :SQ:
+:SCN5: Физика - симуляция канатов [1 Active Dev:nochange:] :SC: :SQ:
+:SCN5: Опыт взаимодействия T1 - шкафчики и инвентарь [2 Active Devs:nochange:] :SC: :SQ:
+:SCN5: Опыт взаимодействия T2 - HUD визора и шлема [1 Active Dev:nochange:] :SC: :SQ:
+:SCN5: Отражения игрока [1 Active Dev:nochange:] :SC:
 :SCN5: Probability Volume Encounter Density Refactor [1 Active Dev:nochange:] :SC:
 :SCN5: Космические станции Pyro [15 Active Devs:nochange:] :SC:
-:SCN5: Система Pyro, планеты и настройка миссий [4 Active Devs:increase:] :SC:
 :SCN5: Квантовая симуляция [5 Active Devs:nochange:] :SC:
-:SCN5: Управление сущностями уровня репликации [6 Active Devs:increase:] :SC:
+:SCN5: Управление сущностями уровня репликации [6 Active Devs:nochange:] :SC:
 :SCN5: Спасательная / транспортная миссия [3 Active Devs:nochange:] :SC:
-:SCN5: Управление ресурсами [2 Active Devs:decrease:] :SC:
 :SCN5: Замена ангаров на станциях Reststop [1 Active Dev:nochange:] :SC:
-:SCN5: RSI Scorpius [5 Active Devs:decrease:] :SC:
-:SCN5: Сальваж T0 [12 Active Devs:increase:] :SC: :SQ:
-:SCN5: Малагины и посетители [4 Active Devs:increase:] :SC:
-:SCN5: Космические мины [1 Active Dev:increase:] :SC:
-:SCN5: Одежда моды Стэнтона [2 Active Devs:increase:] :SC:
-:SCN5: Театры войны - разная поддержка [10 Active Devs:nochange:] :SC:
-:SCN5: Неанонсированный транспорт [1 Active Dev:increase:] :SC:
-:SCN5: Неанонсированный транспорт [11 Active Devs:increase:] :SC:
+:SCN5: RSI Scorpius [11 Active Devs:increase:] :SC:
+:SCN5: Сальваж T0 [17 Active Devs:increase:] :SC: :SQ:
+:SCN5: Спутники - Точки интереса [2 Active Devs:increase:] :SC:
+:SCN5: Магазины и посетители [4 Active Devs:nochange:] :SC:
+:SCN5: Космические мины [1 Active Dev:nochange:] :SC:
+:SCN5: SQ42 - поддержка транспорта [1 Active Dev:increase:] :SQ:
+:SCN5: Неанонсированный транспорт [6 Active Dev:increase:] :SC:
+:SCN5: Неанонсированный транспорт [5 Active Devs:decrease:] :SC:
 :SCN5: Неанонсированный транспорт [3 Active Devs:nochange:] :SC:
-:SCN5: Неанонсированный транспорт [2 Active Devs:nochange:] :SC:
 :SCN5: Неанонсированный транспорт [1 Active Dev:increase:] :SC:
-:SCN5: Подземные сооружения [4 Active Devs:decrease:] :SC:
-:SCN5: Улучшение области видимости [1 Active Dev:increase:] :SC: :SQ:
-:SCN5: Тяни-толкай в невесомости [5 Active Devs:increase:] :SC: :SQ:
+:SCN5: Неанонсированный транспорт [6 Active Devs:increase:] :SC:
+:SCN5: Неанонсированный транспорт [1 Active Dev:nochange:] :SC:
+:SCN5: Подземные сооружения [4 Active Devs:nochange:] :SC:
+:SCN5: Улучшение области видимости [1 Active Dev:nochange:] :SC: :SQ:
+:SCN5: Осечки и износ оружия [1 Active Dev:increase:] :SC: :SQ:
+:SCN5: Тяни-толкай в невесомости [5 Active Devs:nochange:] :SC: :SQ:
