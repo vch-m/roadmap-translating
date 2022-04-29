@@ -47,6 +47,15 @@ def jsonWork(english, russian):
                 json.dump(result, data, ensure_ascii=False, indent=4)
     return ""
 
+def findTranslation(data, line):
+    for dictLine in data:
+        if dictLine[0] != "" and dictLine[0] in line:
+            result = line.replace(dictLine[0], dictLine[1])
+            #result = result.replace("**", "\n**", 1)
+            print(result)
+            return True
+    return False
+
 #finalRussian = cuting(russian)
 #finalEnglish = cuting(english)
 #jsonWork(finalEnglish, finalRussian)
@@ -56,11 +65,9 @@ with open('data.json', encoding='utf-8') as data:
     
     for line in english:
         if line != "":
-            for dictLine in data:
-                if dictLine[0] != "" and dictLine[0] in line:
-                    result = line.replace(dictLine[0], dictLine[1])
-                    print(result)
-                    break
+            line = line.replace("\n", "")
+            if findTranslation(data, line) == False:
+                print(line)
 
 english.close
 russian.close
