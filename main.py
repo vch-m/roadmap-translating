@@ -1,4 +1,5 @@
 from encodings import utf_8
+from operator import contains
 from queue import Empty
 import string
 import json
@@ -18,29 +19,47 @@ def cuting(file):
         cutedText.append(lineList[0])
     return cutedText
 
-finalRussian = cuting(russian)
-finalEnglish = cuting(english)
+def jsonWork(english, russian):
+    #перевірка файлів
+    if sum(1 for line in english) == sum(1 for line in russian):
+        result = []
 
-result = []
+        #заповнення словника
+        i = 0
+        for engLine in english:
+            tempList = [english[i], russian[i]]
+            result.append(tempList)
+            i = i + 1
 
-i = 0
-for engLine in finalEnglish:
-    tempList = [finalEnglish[i], finalRussian[i]]
-    result.append(tempList)
-    i = i + 1
+        #резервне збереження існуючих данних з data.json
+        tempData = 0
+        if os.path.getsize("data.json") != 0:
+            with open('data.json', encoding='utf-8') as data:
+                tempData = json.load(data)
 
-tempData = 0
-if os.path.getsize("data.json") != 0:
-    with open('data.json', encoding='utf-8') as data:
-        tempData = json.load(data)
+        #загрузка отриманих даних в data.json.
+        with open('data.json', 'w', encoding='utf-8') as data:
+            if tempData == 0:
+                json.dump(result, data, ensure_ascii=False, indent=4)
+            else:
+                for line in tempData:
+                    result.append(line)
+                json.dump(result, data, ensure_ascii=False, indent=4)
+    return ""
 
-with open('data.json', 'w', encoding='utf-8') as data:
-    if tempData == 0:
-        json.dump(result, data, ensure_ascii=False, indent=4)
-    else:
-        for line in tempData:
-            result.append(line)
-        json.dump(result, data, ensure_ascii=False, indent=4)
+#finalRussian = cuting(russian)
+#finalEnglish = cuting(english)
+#jsonWork(finalEnglish, finalRussian)
+
+with open('data.json', encoding='utf-8') as data:
+    data = json.load(data)
+    
+    for line in english:
+        if line != "":
+            for dictLine in data:
+                if dictLine[0] != "" and dictLine[0] in line:
+                    result = line.replace(dictLine[0], dictLine[1])
+                    print(result)
 
 
 
