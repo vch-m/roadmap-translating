@@ -60,8 +60,7 @@ with open('data.json', encoding='utf-8') as data:
                 if dictLine[0] != "" and dictLine[0] in line:
                     result = line.replace(dictLine[0], dictLine[1])
                     print(result)
-
-
+                    break
 
 english.close
 russian.close
