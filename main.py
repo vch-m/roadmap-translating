@@ -10,7 +10,8 @@ russian = open('russian.txt', 'r', encoding="utf_8")
 emojis = [':SCN1: ', ':SCN2: ', ':SCN3: ', ':SCN4: ', ':SCN5: ', ':SCN6: ', '<:SCN1:769757680335192065> ', '<:SCN2:769757680327196692> ', '<:SCN3:769757680285515807> ', '<:SCN4:769757680423796756> ', '<:SCN5:769757680435724308> ', '<:SCN6:769757680360357898> ', '\n', ' :SC:', ' :SQ:', "]"]
 works = [
     [
-        "Start date extended",
+        #"Start date extended",
+        "Start date corrected",
         "Начало работ отложено"
     ],
     [
@@ -51,7 +52,7 @@ def cuting(file):
 
 def jsonWork(english, russian):
     #перевірка файлів
-    if sum(1 for line in english) == sum(1 for line in russian):
+    #if sum(1 for line in english) == sum(1 for line in russian):
         result = []
 
         #заповнення словника
@@ -75,7 +76,7 @@ def jsonWork(english, russian):
                 for line in tempData:
                     result.append(line)
                 json.dump(result, data, ensure_ascii=False, indent=4)
-    return ""
+    #return ""
 
 def findTranslation(data, line):
     for dictLine in data:
@@ -85,7 +86,7 @@ def findTranslation(data, line):
             return True
     return False
 
-russian = open('russian.txt', 'w', encoding="utf_8")
+"""russian = open('russian.txt', 'w', encoding="utf_8")
 with open('data.json', encoding='utf-8') as data:
     data = json.load(data)
     
@@ -96,10 +97,11 @@ with open('data.json', encoding='utf-8') as data:
                 line = line.replace(i[0], i[1], 2)
             if findTranslation(data, line) == False:
                 print(line)
-                russian.write(line + '\n')
+                russian.write(line + '\n')"""
 
-finalRussian = cuting(russian)
+russian = open('russian.txt', 'r', encoding="utf_8")
 finalEnglish = cuting(english)
+finalRussian = cuting(russian)
 jsonWork(finalEnglish, finalRussian)
 english.close
 russian.close
